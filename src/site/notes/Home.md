@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
+
 Welcome 👋🏾
 
 I am a newcomer to tabletop role playing games (TTRPGs). This blog is an attempt to exercising my narrative and storytelling skills.

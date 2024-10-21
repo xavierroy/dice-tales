@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/home/","title":"Welcome to Tales of the Dice","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 
-Welcome 👋🏾
+Welcome to Tales of the Dice 👋🏾
 
-I am a newcomer to tabletop role playing games (TTRPGs). This blog is an attempt to exercising my narrative and storytelling skills.
+I started playing tabletop role playing games (TTRPGs) a couple of years back, especially since I discovered Shawn Tomkin’s Ironsworn TTRPG. I loved the versatility and the play-to-see-what happens mechanics. 
 
-Mostly, I will be playing Solo RPGs – meaning I’ll be playing these games alone.
+Mostly, I play Solo RPGs – meaning I’ll be playing these games alone. This site is an attempt to convert my gameplays into a quasi-narrative style.
 
 I will be playing Shawn Tomkin’s Ironsworn and its variants:
 * [Ironsworn](https://tomkinpress.com/pages/ironsworn) - the base game

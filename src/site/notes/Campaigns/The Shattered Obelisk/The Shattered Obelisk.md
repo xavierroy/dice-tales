@@ -6,13 +6,15 @@
 
 # The Shattered Obelisk
 
-The Shattered Obelisk is a reimagination of the DnD adventure: **[[Campaigns/The Shattered Obelisk/lore/Phandelver and Below_ The Shattered Obelisk\|Phandelver and Below: The Shattered Obelisk]]**. This adventure is an update to the Lost Mines of Phandelver, one of the best introductory adventures into the world of DnD.
+The Shattered Obelisk is a reimagination of the DnD adventure, [Phandelver and Below: The Shattered Obelisk](https://dndstore.wizards.com/us/en/product/820931/phandelver-and-below-the-shattered-obelisk-digital-plus-physical-bundle) as a Starforged adventure. 
 
-I was looking at introducing Max and his friends to this updated storyline. I felt they would like the adventuring part of it and also the newer horror-styled tone of the Underdark. 
+I was looking at introducing Max and his friends as a DnD adventure. I felt they would like the adventuring part of it and also the newer horror-styled tone of the Underdark. 
 
-I wondered if this could be adapted as an Ironsworn adventure. I loved the mechanics and gameplay of Ironsworn. So I thought this could be adapted as an Ironsworn game. And then I wondered what if I could reimagine this as a space-faring adventure while trying to maintain the DnD storyline but with Starforged twists.
+Then  I wondered what if I could reimagine this as a space-faring adventure while trying to maintain the DnD storyline but with Starforged mechanics. I also wanted to run this game with AI acting as a guide and storyteller.
 
-I also wanted to get the help of AI to help me with some of the gameplay.
+
+
+
 
 
 GAMEPLAY SESSIONS

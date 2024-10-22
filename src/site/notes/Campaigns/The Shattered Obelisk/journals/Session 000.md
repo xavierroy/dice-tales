@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/the-shattered-obelisk/journals/session-000/","title":"Setting Things Up","noteIcon":""}
+{"dg-publish":true,"permalink":"/campaigns/the-shattered-obelisk/journals/session-000/","title":"Setting Things Up","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 # Session 000:  Setting things up

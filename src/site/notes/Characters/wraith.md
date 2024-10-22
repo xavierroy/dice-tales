@@ -13,7 +13,7 @@
 
 - Starship: [[Campaigns/The Shattered Obelisk/assets/Silent Fury\|Silent Fury]]
 - Companion : [[Campaigns/The Shattered Obelisk/assets/Whisper\|Whisper]]
-- Paths: [[Campaigns/The Shattered Obelisk/assets/Wraith_Path01\|Bounty Hunter]] & [[Campaigns/The Shattered Obelisk/assets/Wraith_Path02\|Sniper]]
+- Paths: [[Campaigns/The Shattered Obelisk/assets/Wraith_BountyHunter\|Bounty Hunter]] & [[Campaigns/The Shattered Obelisk/assets/Wraith_Sniper\|Sniper]]
 
 ### Backstory
 
@@ -21,7 +21,7 @@
 { #e1d6f9}
 
 
-Having lost everything - their home, their purpose, their identity and driven by an all-consuming thirst for vengeance, they shed their old life and embraced the mantle of **Wraith**, transforming from a peaceful artisan into a seasoned **[[Campaigns/The Shattered Obelisk/assets/Wraith_Path01\|bounty hunter]]** and a deadly **[[Campaigns/The Shattered Obelisk/assets/Wraith_Path02\|sniper]]**. 
+Having lost everything - their home, their purpose, their identity and driven by an all-consuming thirst for vengeance, they shed their old life and embraced the mantle of **Wraith**, transforming from a peaceful artisan into a seasoned **[[Campaigns/The Shattered Obelisk/assets/Wraith_BountyHunter\|bounty hunter]]** and a deadly **[[Campaigns/The Shattered Obelisk/assets/Wraith_Sniper\|sniper]]**. 
 
 Wraith travels the Forge aboard the [[Campaigns/The Shattered Obelisk/assets/Silent Fury\|Silent Fury]], a sleek and stealthy starship acquired through a contact in the underworld. Their pursuit of the Crimson Reavers led them to the darkest corners of the Forge, taking on dangerous contracts that brought them closer to their ultimate goal – the annihilation of those who destroyed everything they held dear.
 
@@ -86,8 +86,9 @@ Kaelen carries as his inventory in his Spacer Kit:
 
 { .block-language-dataview}
 ## Vows / Progress Tracks
-| File | Name | Progress |
-| ---- | ---- | -------- |
+| File                                                                           | Name                    | Progress                                                             |
+| ------------------------------------------------------------------------------ | ----------------------- | -------------------------------------------------------------------- |
+| [[Campaigns/The Shattered Obelisk/progress/background-vow\|background-vow]] | Kaelen's Background Vow | ![[Images/Shortcut_Images/ProgressTracks/progress-track-1.svg\|150]] |
 
 { .block-language-dataview}
 

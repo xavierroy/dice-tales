@@ -18,9 +18,9 @@ I will be playing Shawn Tomkin’s Ironsworn and its variants:
 
 ## Campaigns
 
-| Campaign                                                                            | Character                        | Game       |
-| ----------------------------------------------------------------------------------- | -------------------------------- | ---------- |
-| [[Campaigns/The Shattered Obelisk/The Shattered Obelisk\|The Shattered Obelisk]] | [[Characters/wraith\|Wraith]] | Starforged |
+| Campaign                                            | file.title | Character                        | Game       |
+| --------------------------------------------------- | ---------- | -------------------------------- | ---------- |
+| [[Campaigns/The Shattered Obelisk/index\|index]] | \-         | [[Characters/wraith\|Wraith]] | Starforged |
 
 { .block-language-dataview}
 

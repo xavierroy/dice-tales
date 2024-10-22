@@ -19,7 +19,9 @@ A Starforged game or campaign starts with:
 3. Build a Starting Sector - Create a location to explore at the start of your campaign.
 4. Begin Your Adventure - Get your story underway as you face an inciting incident and swear an iron vow.
 
-I decided to create a character first. 
+## Choosing our Truths about the Forge
+
+
 
 ## Creating a Player Character
 

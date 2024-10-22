@@ -17,7 +17,9 @@
 
 ### Backstory
 
-**Kaelen  Vashti** served as a skilled sharpshooter in the planetary militia for a few years before dropping out. Now Kaelen,  a skilled artisan in a small yet thriving community on the edge of the Forge is known for their artistic knick-knacks that the community sold to off-planet traders. But this tranquility was shattered when the [[Crimson Reavers\|Crimson Reavers]], a ruthless band of raiders, descended upon their settlement, leaving behind a trail of fire and despair. Wraith,who had been off-planet during that raid, returned home to find their home reduced to ashes and their comrades slaughtered.
+**Kaelen  Vashti** served as a skilled sharpshooter in the planetary militia for a few years before dropping out. Now Kaelen,  a skilled artisan in a small yet thriving community on the edge of the Forge is known for their artistic knick-knacks that the community sold to off-planet traders. But this tranquility was shattered when the [[Crimson Reavers\|Crimson Reavers]], a ruthless band of raiders, descended upon their settlement, leaving behind a trail of fire and despair. Wraith, who had been off-planet during that raid, returned home to find their home reduced to ashes and their comrades slaughtered.
+{ #e1d6f9}
+
 
 Having lost everything - their home, their purpose, their identity and driven by an all-consuming thirst for vengeance, they shed their old life and embraced the mantle of **Wraith**, transforming from a peaceful artisan into a seasoned **[[Campaigns/The Shattered Obelisk/assets/Wraith_Path01\|bounty hunter]]** and a deadly **[[Campaigns/The Shattered Obelisk/assets/Wraith_Path02\|sniper]]**. 
 
@@ -28,28 +30,31 @@ During their travels, while exploring the ruins of a Precursor facility searchin
 Whisper, bound by a debt of gratitude, pledged loyalty to **Wraith**. Its unique abilities, navigating tight spaces, bypassing security systems, and gathering information covertly, made it the perfect partner for the lone wolf hunter.
 
 Now, Wraith, accompanied by Whisper, find their way on to [[Campaigns/The Shattered Obelisk/locations/Valkyrie Station\|Valkyrie Station]], a bustling hub of activity in the Forge, where they hope to find leads on the Crimson Reavers's whereabouts.
+
 ### Inventory
 
-- **Spacer Kit:** This includes basic necessities for survival in the Forge:  
-    - **Clothing:** Durable, weather-appropriate attire.
-    - **Rations:** Basic food supplies.
-    - **Tools:** A multitool, repair kit, and other essentials.
-    - **First Aid Kit:** Basic medical supplies.
-    - **Commlink:** A device for short-range communication.
-- **Customized Sniper Rifle (Name: Widowmaker)**
-- **Hunter's Knife:** (Used to swear iron vows)
-- **Data Slate:** With target information, star charts, and communication logs.
-- **Disguise Kit** 
-- **Lockpicks** 
-- **Silent Weapons:** Suppressed pistol or throwing knives.
-- **Grappling Hook**
-- **Binoculars**
-- **Credits** - for purchases    
+Kaelen carries as his inventory in his Spacer Kit:
+	- Clothing: Durable, weather-appropriate attire.
+	- Rations: Basic food supplies.
+	- Tools: A multitool, repair kit, and other essentials.
+	- First Aid Kit: Basic medical supplies.
+	- Hololink: A device for communication. 
+	- Customized Sniper Rifle: Kaelen has named it: *Widowmaker*
+	- Hunter's Knife: (used to swear iron vows)
+	- Data Slate: With target information, star charts, and communication logs.
+	- Disguise Kit 
+	- Lockpicks 
+	- Silent Weapons: Suppressed pistol or throwing knives.
+	- Grappling Hook
+	- Binoculars
+	- Credits - for purchases   
+{ #0acfe8}
+
 
 ## Stats
 | Edge         | Heart         | Iron         | Shadow         | Wits         |
 | ------------ | ------------- | ------------ | -------------- | ------------ |
-| 4 | 3 | 3 | 2 | 2 |
+| 3 | 2 | 2 | 1 | 1 |
 
 ## Meters
 | Health | Spirit | Supply | Wealth | Momentum |

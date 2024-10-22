@@ -2,9 +2,9 @@
 {"game":"Starforged","type":"campaign","campaign":"The Shattered Obelisk","name":"The Shattered Obelisk","character":"[[wraith|Wraith]]","aliases":["TSO"],"cssclasses":["wide"],"locations":"[[The Ebon Maw.canvas|The Ebon Maw]]","dg-publish":true,"title":"The Shattered Obelisk","permalink":"/campaigns/the-shattered-obelisk/index/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-![the-obelisk.jpg](/img/user/Campaigns/The%20Shattered%20Obelisk/images/the-obelisk.jpg)
-
 # The Shattered Obelisk
+
+![tso-banner.png](/img/user/Campaigns/The%20Shattered%20Obelisk/images/tso-banner.png)
 
 The Shattered Obelisk is my reimagination of the DnD adventure, [Phandelver and Below: The Shattered Obelisk](https://dndstore.wizards.com/us/en/product/820931/phandelver-and-below-the-shattered-obelisk-digital-plus-physical-bundle) as a Starforged adventure. 
 

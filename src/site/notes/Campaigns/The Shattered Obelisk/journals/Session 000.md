@@ -151,3 +151,44 @@ and status. Initially, health, spirit, and supply meters are set to 5 and moment
 >  Momentum: 2
 
 --- 
+
+## Creating a Starting Sector
+
+> [!info] 
+> A typical Starforged sector creation involves the following steps:
+> 1. Choose your starting region (p. 116)
+> 2. Determine the number of settlements (p. 116)
+> 3. Generate settlement details (p. 117)
+> 4. Generate planets (p. 118)
+> 5. Generate stars (optional) (p. 118)
+> 6. Create a sector map (p. 119)
+> 7. Create passages (p. 120)
+> 8. Zoom in on a settlement (p. 122)
+> 9. Create a local connection (p. 123)
+> 10. Introduce a sector trouble (p. 126)
+> 11. Finalize your starting sector (p. 126)
+
+Like the character creation process, I'm following the steps out of order.
+
+### Generate settlement details
+
+As this is going to be a reimagination of a DnD adventure and the story starts from Neverwinter, I asked NotebookLM to translate the city of Neverwinter as an orbital settlement keeping the ethos of the DnD city intact. 
+
+It suggested [[Campaigns/The Shattered Obelisk/locations/Valkyrie Station\|Valkyrie Station]] citing that this name evokes a sense of power and activity as a hub for trade, intrigue, and diverse factions.🤷🏾
+
+### Choose your starting region
+
+So where is Valkyrie Station located? Rolling on it gave us [[Campaigns/The Shattered Obelisk/locations/The Ebon Maw\|The Ebon Maw]]:
+
+> [!oracle] Sector Name
+>  **Name:** The Ebon Maw
+> **Region:** Outlands
+> **Stellar Object:** Burning yellow star
+> **Number of Planets:** 3
+> **Settlements:** 2
+> **Sighting:** Electromagnetic emission nebula 
+> **Trouble**: Raider Clan emerges as a dominant threat
+{ #faba0e}
+
+
+

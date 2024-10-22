@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/wraith/","noteIcon":""}
+{"type":"character","Name":"Kaelen Vashti","Callsign":"Wraith","Pronouns":"They/Them","Edge":3,"Heart":2,"Iron":2,"Shadow":1,"Wits":1,"Health":5,"Spirit":5,"Supply":5,"Momentum":2,"Wealth":0,"Wounded":"⬡","Shaken":"⬡","Unprepared":"⬡","Harmed":"⬡","Traumatized":"⬡","Doomed":"⬡","Tormented":"⬡","Indebted":"⬡","XPSpent":0,"Bonds_Progress":0,"Bonds_TrackImage":"[[progress-track-0.svg]]","Bonds_XPEarned":0,"Discoveries_Progress":0,"Discoveries_TrackImage":"[[progress-track-0.svg]]","Discoveries_XPEarned":0,"Quests_Progress":0,"Quests_TrackImage":"[[progress-track-0.svg]]","Quests_XPEarned":0,"aliases":["Kaelen Vashti","Kaelen","Wraith"],"campaign":"The Shattered Obelisk","dg-publish":true,"permalink":"/characters/wraith/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # Kaelen Vashti (Wraith)

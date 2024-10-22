@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/the-shattered-obelisk/assets/wraith-bounty-hunter/","title":"Bounty Hunter","noteIcon":""}
+{"type":"asset","campaign":"The Shattered Obelisk","title":"Bounty Hunter","dg-publish":true,"permalink":"/campaigns/the-shattered-obelisk/assets/wraith-bounty-hunter/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

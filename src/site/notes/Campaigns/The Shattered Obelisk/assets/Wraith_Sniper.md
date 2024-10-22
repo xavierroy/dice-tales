@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/the-shattered-obelisk/assets/wraith-sniper/","title":"Sniper","noteIcon":""}
+{"type":"asset","campaign":"The Shattered Obelisk","title":"Sniper","dg-publish":true,"permalink":"/campaigns/the-shattered-obelisk/assets/wraith-sniper/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # Sniper (path)

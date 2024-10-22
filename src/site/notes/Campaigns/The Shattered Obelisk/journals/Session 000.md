@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/the-shattered-obelisk/journals/session-000/","title":"Setting Things Up","dgShowLocalGraph":true,"noteIcon":""}
+{"campaign":"The Shattered Obelisk","type":"session","title":"Setting Things Up","aliases":["TSO-Session Zero"],"tools":["NotebookLM","Gemini"],"date":"2024-10-14","cssclasses":["wide","img-grid"],"dg-publish":true,"dg-show-local-graph":true,"permalink":"/campaigns/the-shattered-obelisk/journals/session-000/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # Session 000:  Setting things up
@@ -72,8 +72,8 @@ He is a lone wolf hunter archetype bent on vengeance who destroyed his community
 
 
 
-> [!vow] `=this.Name` (Difficulty: `=this.Difficulty`)
-> I vow to eradicate the Crimson Reavers from the Forge, leaving no trace of their cruelty. 
+> [!vow] Kaelen's Background Vow (Difficulty: Epic)
+> I vow to eradicate the [[Crimson Reavers\|Crimson Reavers]] from the Forge, leaving no trace of their cruelty. 
 
 </div></div>
 
@@ -109,7 +109,7 @@ Kaelen carries as his inventory in his Spacer Kit:
 </div></div>
 
 
-#### Board your starship 
+### Board your starship 
 Kaelen needs a spaceship to travel on his vengeance journey. So I added a new Command Vehicle for him and named it [[Campaigns/The Shattered Obelisk/assets/Silent Fury\|Silent Fury]]. 
 
 ![1-Starship.png](/img/user/Assets/Command_Vehicle/1-Starship.png)
@@ -133,7 +133,7 @@ Next up was figuring out the stats for Kaelen.  The stats influence how Kaelen i
 > [!mechanics]+ Stats for Kaelen
 >-  ==**Edge: 3**==  - A high Edge score signifies Kaelen's proficiency in quickness, agility, and ranged combat. This aligns with Kaelen's background as a skilled sharpshooter and their SNIPER path, allowing them to excel in situations requiring precision and speed, like starship combat or ranged attacks.
 >- ==**Heart: 2**== - Though not their primary strength, a decent Heart score allows Kaelen to navigate social interactions effectively and maintain strong bonds with companions.
->-==**Iron: 2**== - While not a brawler, Kaelen can withstand physical challenges and hold their own in close combat if necessary.
+>- ==**Iron: 2**== - While not a brawler, Kaelen can withstand physical challenges and hold their own in close combat if necessary.
 >- ==**Shadow: 1**== - A low Shadow score suggests that stealth and deception are not Kaelen's preferred methods. Since Kaelen's BOUNTY HUNTER path may require some degree of stealth and cunning to track targets effectively, making this a situational stat. His companion sprite [[Campaigns/The Shattered Obelisk/assets/Whisper\|Whisper]] can augment Kaelen's capabilities in situations where the Shadow stat is relevant. 
 >- ==**Wits: 1**== - A low Wits score indicates that Kaelen relies more on instinct and experience than intellectual prowess.
 

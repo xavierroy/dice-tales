@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/the-shattered-obelisk/index/","title":"The Shattered Obelisk","noteIcon":""}
+{"game":"Starforged","type":"campaign","campaign":"The Shattered Obelisk","name":"The Shattered Obelisk","character":"[[wraith|Wraith]]","aliases":["TSO"],"cssclasses":["wide"],"locations":"[[The Ebon Maw.canvas|The Ebon Maw]]","dg-publish":true,"title":"The Shattered Obelisk","permalink":"/campaigns/the-shattered-obelisk/index/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ![the-obelisk.jpg](/img/user/Campaigns/The%20Shattered%20Obelisk/images/the-obelisk.jpg)

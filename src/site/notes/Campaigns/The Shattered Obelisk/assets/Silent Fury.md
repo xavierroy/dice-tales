@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/the-shattered-obelisk/assets/silent-fury/","noteIcon":""}
+{"aliases":["Fury"],"Integrity":5,"Max":5,"campaign":"The Shattered Obelisk","type":"asset","dg-publish":true,"permalink":"/campaigns/the-shattered-obelisk/assets/silent-fury/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # Silent Fury (Starship)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaigns/the-shattered-obelisk/assets/whisper/","title":"Whisper","noteIcon":""}
+{"type":"asset","campaign":"The Shattered Obelisk","title":"Whisper","Health":2,"Max":2,"dg-publish":true,"permalink":"/campaigns/the-shattered-obelisk/assets/whisper/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # Whisper (Companion)

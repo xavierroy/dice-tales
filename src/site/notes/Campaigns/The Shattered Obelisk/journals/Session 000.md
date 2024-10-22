@@ -1,5 +1,5 @@
 ---
-{"campaign":"The Shattered Obelisk","type":"session","title":"Setting Things Up","aliases":["TSO-Session Zero"],"tools":["NotebookLM","Gemini"],"date":"2024-10-14","cssclasses":["wide","img-grid"],"dg-publish":true,"dg-show-local-graph":true,"permalink":"/campaigns/the-shattered-obelisk/journals/session-000/","dgShowLocalGraph":true,"dgPassFrontmatter":true,"noteIcon":""}
+{"campaign":"The Shattered Obelisk","type":"session","title":"Setting Things Up","aliases":["TSO-Session Zero"],"tools":["NotebookLM","Gemini"],"date":"2024-10-14","cssclasses":["wide","img-grid"],"dg-publish":true,"permalink":"/campaigns/the-shattered-obelisk/journals/session-000/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # Session 000:  Setting things up

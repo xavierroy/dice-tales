@@ -2,10 +2,10 @@
 {"type":"asset","campaign":"The Shattered Obelisk","title":"Sniper","dg-publish":true,"permalink":"/campaigns/the-shattered-obelisk/assets/wraith-sniper/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-# Sniper (path)
+# Sniper (Path)
 
 ## Abilities:
-- [ ] When you target a minor foe from a distance (outside of a fight), roll +wits. On a strong hit, they are out of action. If other foes remain and you [Enter the Fray](Moves/combat/enter_the_fray) against them, mark progress. On a weak hit, as above, but you sacrifice time or position; [Lose Momentum](Moves/suffer/lose_momentum) (-1). On a miss, you draw attention or face a reprisal; [Pay the Price](Moves/fate/pay_the_price).
+- [x] When you target a minor foe from a distance (outside of a fight), roll +wits. On a strong hit, they are out of action. If other foes remain and you [Enter the Fray](Moves/combat/enter_the_fray) against them, mark progress. On a weak hit, as above, but you sacrifice time or position; [Lose Momentum](Moves/suffer/lose_momentum) (-1). On a miss, you draw attention or face a reprisal; [Pay the Price](Moves/fate/pay_the_price).
 
 - [ ] When you [Strike](Moves/combat/strike) from a distance with time enough to line up your shot, you may roll +wits. If you do, mark progress on a strong hit.
 

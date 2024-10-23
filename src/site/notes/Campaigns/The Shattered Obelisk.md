@@ -15,9 +15,9 @@ I am not sure how this story will turn out.
 
 ## Episodes
 
-| Number  | Title                                                                                                       | Locations        |
-| ------- | ----------------------------------------------------------------------------------------------------------- | ---------------- |
-| TSO-001 | [[Campaigns/The Shattered Obelisk/journals/01-Arrival at Valkyrie Station\|Arrival at Valkyrie Station]] | Valkyrie Station |
+| Number  | Title                                                                                                        | Locations        |
+| ------- | ------------------------------------------------------------------------------------------------------------ | ---------------- |
+| TSO-001 | [[Campaigns/The Shattered Obelisk/journals/001-Arrival at Valkyrie Station\|Arrival at Valkyrie Station]] | Valkyrie Station |
 
 { .block-language-dataview}
 

@@ -2,6 +2,8 @@
 {"type":"episode","campaign":"The Shattered Obelisk","title":"Arrival at Valkyrie Station","episode":"TSO-001","location":"Valkyrie Station","tools":["Claude"],"dg-publish":true,"dg-metatags":{"og:title":"Arrival at Valkyrie Station","og:image":"../images/tso-banner.png"},"permalink":"/campaigns/the-shattered-obelisk/journals/001-arrival-at-valkyrie-station/","metatags":{"og:title":"Arrival at Valkyrie Station","og:image":"../images/tso-banner.png"},"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
+![tso-banner.png](/img/user/Campaigns/The%20Shattered%20Obelisk/images/tso-banner.png)
+[[Campaigns/The Shattered Obelisk\|The Shattered Obelisk]] ⬆️
 ## Arrival at Valkyrie Station
 
 > [!locale]

@@ -1,12 +1,12 @@
 ---
-{"type":"episode","campaign":"The Shattered Obelisk","title":"Arrival at Valkyrie Station","episode":"TSO-001","location":"Valkyrie Station","tools":["Claude"],"dg-publish":true,"permalink":"/campaigns/the-shattered-obelisk/journals/001-arrival-at-valkyrie-station/","dgPassFrontmatter":true,"noteIcon":""}
+{"type":"episode","campaign":"The Shattered Obelisk","title":"Arrival at Valkyrie Station","episode":"TSO-001","location":"Valkyrie Station","tools":["Claude"],"dg-publish":true,"dg-metatags":{"og:title":"Arrival at Valkyrie Station","og:image":"[[tso-banner.png]]"},"permalink":"/campaigns/the-shattered-obelisk/journals/001-arrival-at-valkyrie-station/","metatags":{"og:title":"Arrival at Valkyrie Station","og:image":"[[tso-banner.png]]"},"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ## Arrival at Valkyrie Station
 
 > [!locale]
-> :LiWatch:  DSTS 245.8.1.12.3 (*Pulse-day, Shift Three*)
-> :LiLocateFixed: *Beta Bay 27*, Brynhildr Ring, Valkyrie Station 
+> ⌚:  DSTS 245.8.1.12.3 (*Pulse-day, Shift Three*)
+> 📌: *Beta Bay 27*, Brynhildr Ring, Valkyrie Station 
 
 In the perpetual twilight of Valkyrie Station's Beta Bay 27, the *Silent Fury* settled into its berth like a predator coming to rest. The ship's systems powered down with a dying whisper, leaving only the essential systems humming beneath its scarred hull.  
 

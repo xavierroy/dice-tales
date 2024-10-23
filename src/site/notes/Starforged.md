@@ -13,6 +13,8 @@ In [Ironsworn:Starforged](https://tomkinpress.com/pages/ironsworn-starforged), 
 
 Starforged is a standalone sci-fi follow-up to Shawn Tomkin's free [[Ironsworn\|Ironsworn]] that has the Forge as the main setting.
 
+
+
 > [[Locations/The Forge\|The Forge]] is a globular cluster in orbit around your people’s home galaxy. It is 1,700 light years above the galactic plane—a bright island in a dark void. (from *pg 20, Ironsworn:Starforged*)
 
 ## Starforged Campaigns

@@ -11,3 +11,7 @@ body {
     //   color: black;
     //  }
 }
+.callout[data-callout="locale"] {
+  --callout-icon: lucide-radar;
+  --callout-color: 169, 169, 229;
+}

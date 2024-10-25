@@ -18,7 +18,7 @@ I will be playing Shawn Tomkin’s Ironsworn and its variants:
 > [!important] Use of AI in this site
 > I'm using AI as a collaborative storytelling partner.
 > 
-> **My role in this project is to serve as the game master.** I'll set the scene, determine the initial plot points, and roll the dice to introduce random elements into the story. Once I've established the basic framework, **I'll provide the AI with the dice results and my thoughts on how I want the story to unfold.**
+> **==My role in this project is to serve as the game master.==** I'll set the scene, determine the initial plot points, and roll the dice to introduce random elements into the story. Once I've established the basic framework, **I'll provide the AI with the dice results and my thoughts on how I want the story to unfold.**
 > 
 > The AI will then generate the narrative based on these inputs. After the AI has finished its draft, **I'll review the story for clarity, coherence, and consistency with my original vision.** Any necessary revisions will be made to ensure a polished final product.
 > 

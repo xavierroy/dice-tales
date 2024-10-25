@@ -11,8 +11,28 @@ body {
     //   color: black;
     //  }
 }
+@import url('https://fonts.googleapis.com/css2?family=Oxanium&display=swap');
+
+/* The Various Colors Used for Reference
+    Green: 62, 180, 32      #3EB420
+    Blue: 40, 170, 225      #28aae1
+    Orange: 221, 167, 62    #DDA73E
+    Red: 206, 36, 43        #CE242B
+    Purple: 139, 108, 239   #8B6CEF
+*/
+
+/* Color Code Needed for Oracle Callout to Work in Light/Dark Mode */
+.theme-light {
+    --color-code: 0, 0, 0;
+}
+
+.theme-dark {
+    --color-code: 255, 255, 255;
+}
+
+
 .callout[data-callout="locale"] {
-  --callout-icon: lucide-radar;
+  --callout-icon: radar;
   --callout-color: 169, 169, 229;
 }
 
@@ -103,3 +123,47 @@ https://github.com/nordtheme/nord
 .theme-dark.minimal-nord-dark.minimal-dark-black {
 	--ui1:#2e3440;
 }
+
+.cm-header-1 {
+	font-family: "Oxanium", sans-serif;
+	 text-transform: uppercase;
+	 font-size: 1.8em;
+ }
+ 
+ .cm-header-2 {
+	font-family: "Oxanium", sans-serif;
+	 text-transform: uppercase;
+	 font-size: 1.4em;
+ }
+ .cm-header-3 {
+	font-family: "Oxanium", sans-serif;
+	 font-size: 1.2em;
+ }
+
+ .inline-title {
+	font-family: "Oxanium", sans-serif;
+	 font-size: 0.8em;
+	 text-align: center;
+ }
+
+ /* Image dynamic colors inversion */
+
+.theme-dark span[src$="#invert_B"] img{
+	filter: invert(1) hue-rotate(180deg);
+  }
+  
+  .theme-light span[src$="#invert_W"] img{
+	filter: invert(1) hue-rotate(180deg);
+  }
+  .theme-dark span[src$="invert_B_C"] img{
+	filter: invert(1) hue-rotate(180deg) contrast(1.5);
+  }
+  
+  .theme-light span[src$="#invert_W_C"] img{
+	filter: invert(1) hue-rotate(180deg) contrast(1.45);
+  }
+  
+  ul.dataview.list-view-ul {
+	  list-style: none;
+	  padding-left: 0;
+  }

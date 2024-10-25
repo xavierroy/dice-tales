@@ -1,5 +1,5 @@
 ---
-{"type":"episode","campaign":"The Shattered Obelisk","title":"Arrival at Valkyrie Station","episode":"TSO-001","location":"Valkyrie Station","tools":["Claude"],"dg-publish":true,"dg-metatags":{"og:title":"Arrival at Valkyrie Station","og:image":"/img/user/Campaigns/The%20Shattered%20Obelisk/images/tso-banner.png"},"permalink":"/campaigns/the-shattered-obelisk/journals/001-arrival-at-valkyrie-station/","metatags":{"og:title":"Arrival at Valkyrie Station","og:image":"/img/user/Campaigns/The%20Shattered%20Obelisk/images/tso-banner.png"},"dgPassFrontmatter":true,"noteIcon":""}
+{"type":"episode","campaign":"The Shattered Obelisk","title":"Arrival at Valkyrie Station","episode":"TSO-001","location":"Valkyrie Station","tools":["Claude"],"dg-publish":true,"dg-permalink":"the-shattered-obelisk/001","dg-metatags":{"og:title":"Arrival at Valkyrie Station","description":"TSO-001: Kaelen Vashti arrives at Valkyrie Station to meet Valera Thorne.","og:image":"/img/user/Campaigns/The%20Shattered%20Obelisk/images/tso-banner.png"},"permalink":"/the-shattered-obelisk/001/","metatags":{"og:title":"Arrival at Valkyrie Station","description":"TSO-001: Kaelen Vashti arrives at Valkyrie Station to meet Valera Thorne.","og:image":"/img/user/Campaigns/The%20Shattered%20Obelisk/images/tso-banner.png"},"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ![tso-banner.png](/img/user/Campaigns/The%20Shattered%20Obelisk/images/tso-banner.png)
@@ -36,6 +36,6 @@ Through it all, Whisper remained a constant presence, its otherworldly senses at
 
 As Kaelen made his way toward the transit hub that would take him to Freyja Ring, the station's defense grid continued its eternal vigilance. Somewhere in the vast machinery of Valkyrie Station, automated systems logged his presence, threat assessment algorithms ran their calculations, and unseen watchers made notes in encrypted files.
 
-The station's old saying echoed in his mind: '*Credit talks, but information whispers.'* In the darkness between the stars, Kaelen Vashti had learned to listen to those whispers. Now, with Whisper's cold presence at his side and Durant's suspicious gaze at his back, he moved deeper into the mechanical heart of Valkyrie Station, where ancient technologies and darker secrets awaited.
+The station's old saying echoed in his mind: '*Credit talks, but information whispers.*' In the darkness between the stars, Kaelen Vashti had learned to listen to those whispers. Now, with Whisper's cold presence at his side and Durant's suspicious gaze at his back, he moved deeper into the mechanical heart of Valkyrie Station, where ancient technologies and darker secrets awaited.
 
 - - -

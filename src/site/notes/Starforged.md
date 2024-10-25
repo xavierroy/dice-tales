@@ -6,7 +6,7 @@
 >[!quote]
 > “The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.” - Carl Sagan, *Cosmos*
 
-![[starforged-square.jpg#blend]]
+![starforged-square.jpg](/img/user/Images/banners/starforged-square.jpg)
 
 [Ironsworn:Starforged](https://tomkinpress.com/pages/ironsworn-starforged) is a tabletop roleplaying game (TTRPG), a type of game where you and your friends gather together to tell a collaborative story. It’s like a choose-your-own-adventure book where the story unfolds based on your choices and the roll of the dice.
 

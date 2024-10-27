@@ -1,5 +1,5 @@
 ---
-{"aliases":["Ironsworn: Starforged"],"dg-publish":true,"cssclasses":["img-wide"],"permalink":"/starforged/","dgPassFrontmatter":true,"noteIcon":""}
+{"aliases":["Ironsworn: Starforged"],"dg-publish":true,"cssclasses":["img-wide"],"permalink":"/starforged/","contentClasses":"img-wide","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

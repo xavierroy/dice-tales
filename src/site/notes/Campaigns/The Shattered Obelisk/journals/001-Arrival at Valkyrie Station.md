@@ -4,11 +4,16 @@
 
 ![tso-banner.png](/img/user/Campaigns/The%20Shattered%20Obelisk/images/tso-banner.png)
 [[Campaigns/The Shattered Obelisk\|The Shattered Obelisk]] ⬆️
+
+> [!session-info]-
+> This narrative is based on the following sessions:
+> -  [[Campaigns/The Shattered Obelisk/sessions/Session 000\|TSO-Setting Things Up]].
+
 ## Arrival at Valkyrie Station
 
 > [!locale]
 > ⌚:  DSTS 245.8.1.12.3 (*Pulse-day, Shift Three*) 
-> 📌: *Beta Bay 27*, Brynhildr Ring, Valkyrie Station 
+> 📌: *Beta Bay 27*, Brynhildr Ring, [[Campaigns/The Shattered Obelisk/locations/Valkyrie Station\|Valkyrie Station]]
 
 In the perpetual twilight of Valkyrie Station's Beta Bay 27, the *Silent Fury* settled into its berth like a predator coming to rest. The ship's systems powered down with a dying whisper, leaving only the essential systems humming beneath its scarred hull.  
 

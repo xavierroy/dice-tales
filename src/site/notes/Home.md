@@ -1,5 +1,5 @@
 ---
-{"aliases":["Home"],"dg-home":true,"dg-publish":true,"title":"Welcome to Tales of the Dice","permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
+{"aliases":["Home"],"dg-home":true,"dg-publish":true,"title":"Welcome to Tales of the Dice","dg-metatags":{"description":"stories from solo roleplaying game sessions","og-title":"Tales from the Dice"},"permalink":"/home/","metatags":{"description":"stories from solo roleplaying game sessions","og-title":"Tales from the Dice"},"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # Welcome to Tales of the Dice 👋🏾

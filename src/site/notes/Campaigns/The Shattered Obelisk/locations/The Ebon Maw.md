@@ -1,0 +1,36 @@
+---
+{"type":"sector","region":"Outlands","generator":"Obsidian","campaign":"The Shattered Obelisk","dg-publish":true,"permalink":"/campaigns/the-shattered-obelisk/locations/the-ebon-maw/","dgPassFrontmatter":true,"noteIcon":""}
+---
+
+# The Ebon MAW
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+> [!oracle] Sector Name
+>  **Name:** The Ebon Maw
+> **Region:** Outlands
+> **Stellar Object:** Burning yellow star
+> **Number of Planets:** 3
+> **Settlements:** 2
+> **Sighting:** Electromagnetic emission nebula 
+> **Trouble**: Raider Clan emerges as a dominant threat
+
+
+</div></div>
+
+
+
+
+
+## Locations
+
+
+| Location                                                                            | Type       | Cell             |
+| ----------------------------------------------------------------------------------- | ---------- | ---------------- |
+| [[Campaigns/The Shattered Obelisk/locations/Valkyrie Station\|Valkyrie Station]] | settlement | Valkyrie Station |
+| [[Campaigns/The Shattered Obelisk/locations/Ember\|Ember]]                       | settlement | Ember            |
+
+{ .block-language-dataview}

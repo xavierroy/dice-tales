@@ -45,11 +45,11 @@
 }
 
 .callout[data-callout="locale"] {
-    --callout-icon: lucide-radar;
+    --callout-icon: radar;
     --callout-color: 169, 169, 229;
 }
 
-.callout[data-callout="locale"] {
-    --callout-icon: lucide-notebook-pen;
+.callout[data-callout="session-info"] {
+    --callout-icon: notebook-pen;
     --callout-color: 227, 107, 167;
 }

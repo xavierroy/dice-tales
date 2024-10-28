@@ -161,12 +161,12 @@ p > code {
     --callout-icon: lucide-bug;
 }
 .callout[data-callout="example"] {
-    --callout-color: 158, 134, 200;
+    --callout-color: 124, 77, 255;
     --callout-icon: lucide-list;
 }
 .callout[data-callout="quote"],
 .callout[data-callout="cite"] {
-    --callout-color: 82, 138, 212;
+    --callout-color: 158, 158, 158;
     --callout-icon: lucide-quote;
 }
 .callout {

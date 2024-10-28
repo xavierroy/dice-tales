@@ -6,8 +6,9 @@
 
 
 
-![[Valera-Thorne.jpg#circle]]
+![Valera-Thorne.jpg](/img/user/Campaigns/The%20Shattered%20Obelisk/images/Valera-Thorne.jpg) [^vt-pic]
 
+[^vt-pic]: https://deepai.org/machine-learning-model/3d-character-generator
 >[!oracle]- NPC: Valera "Whistle" Thorne
 >
 > - Their name is **Valera Thorne**.

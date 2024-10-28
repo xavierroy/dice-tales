@@ -5,7 +5,7 @@
 ![tso-banner.png](/img/user/Campaigns/The%20Shattered%20Obelisk/images/tso-banner.png)
 [[Campaigns/The Shattered Obelisk\|The Shattered Obelisk]] ⬆️
 
-> [!session-info]-
+> [!session]-
 > This narrative is based on the following sessions:
 > -  [[Campaigns/The Shattered Obelisk/sessions/Session 000\|TSO-Setting Things Up]].
 

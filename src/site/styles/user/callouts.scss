@@ -48,3 +48,8 @@
     --callout-icon: lucide-radar;
     --callout-color: 169, 169, 229;
 }
+
+.callout[data-callout="locale"] {
+    --callout-icon: lucide-notebook-pen;
+    --callout-color: 227, 107, 167;
+}

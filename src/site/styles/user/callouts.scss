@@ -8,6 +8,10 @@
     --color-code: 255, 255, 255;
 }
 
+.callout{
+    font-family: Dosis, sans-serif;
+}
+
 /* New Callout Types Start Here */
 .callout[data-callout="challenge-strong"] {
     --callout-color: 62, 180, 32;
@@ -47,6 +51,7 @@
 .callout[data-callout="locale"] {
     --callout-icon: lucide-radar;
     --callout-color: 169, 169, 229;
+    
 }
 
 .callout[data-callout="session"] {

@@ -23,6 +23,8 @@ I will be playing Shawn Tomkin’s Ironsworn and its variants:
 > The AI will then generate the narrative based on these inputs. After the AI has finished its draft, **I'll review the story for clarity, coherence, and consistency with my original vision.** Any necessary revisions will be made to ensure a polished final product.
 > 
 > **To maintain transparency,** I'll publish each episode along with the dice rolls and my thoughts from the initial planning stage.
+{ #023568}
+
 
 ## Current Storylines
 

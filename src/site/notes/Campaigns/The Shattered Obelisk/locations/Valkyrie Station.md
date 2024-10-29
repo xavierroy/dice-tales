@@ -1,24 +1,25 @@
 ---
-{"type":"settlement","settlement-type":"Orbital","firstLook":"","initialContact":null,"population":"Thousands","authority":"Tolerant","projects":"","trouble":"","cell":"Valkyrie Station","generator":"NotebookLM","location":[{"sector":"The Ebon Maw"},{"region":"The Outlands"}],"campaign":"The Shattered Obelisk","aliases":["VS","ValkStat"],"cssclasses":["col-alt","col-lines","table-tiny","row-highlight"],"dg-publish":true,"dg-path":"Locations/Valkyrie Station.md","permalink":"/locations/valkyrie-station/","contentClasses":"col-alt col-lines table-tiny row-highlight","dgPassFrontmatter":true,"noteIcon":""}
+{"type":"settlement","settlement-type":"Orbital","firstLook":"","initialContact":null,"population":"Thousands","authority":"Tolerant","projects":"","trouble":"","cell":"Valkyrie Station","generator":"NotebookLM","location":[{"sector":"The Ebon Maw"},{"region":"The Outlands"}],"campaign":"The Shattered Obelisk","aliases":["VS","ValkStat"],"cssclasses":["Starforged"],"dg-publish":true,"dg-path":"Locations/Valkyrie Station.md","permalink":"/locations/valkyrie-station/","contentClasses":"Starforged","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
+# Valkyrie Station
 
 ![Valkyrie Station.png](/img/user/Campaigns/The%20Shattered%20Obelisk/images/Valkyrie%20Station.png)
 
 > [!oracle] Settlement Oracle Roll Results
 >
-| Name                | Results          |
-| ------------------- | ---------------------------- |
-| Region              | Outlands                     |
-| Sector | [[Campaigns/The Shattered Obelisk/locations/The Ebon Maw\|The Ebon Maw]]   |
-| Settlement Name     | Valkyrie Station             |
-| Location            | Orbital                      |
-| Population          | Tens of Thousands            |
-| First Look          | Intimidating defenses        |
-| Initial Contact     | Wary                         |
-| Authority           | Tolerant                     |
-| Settlement Projects | Manufacturing and production |
-| Settlement Trouble  | Impassable route             |
+> Name                | Results          |
+>| ------------------- | ---------------------------- |
+>| Region              | Outlands                     |
+>| Sector | [[Campaigns/The Shattered Obelisk/locations/The Ebon Maw\|The Ebon Maw]]   |
+>| Settlement Name     | Valkyrie Station             |
+>| Location            | Orbital                      |
+>| Population          | Tens of Thousands            |
+>| First Look          | Intimidating defenses        |
+>| Initial Contact     | Wary                         |
+>| Authority           | Tolerant                     |
+>| Settlement Projects | Manufacturing and production |
+>| Settlement Trouble  | Impassable route             |
 
 **Picture Valkyrie Station as a hub of activity within the Outlands region of the Forge.** 
 

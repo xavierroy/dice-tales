@@ -1,5 +1,5 @@
 ---
-{"type":"sector","region":"Outlands","generator":"Obsidian","campaign":"The Shattered Obelisk","dg-publish":true,"dg-path":"Locations/The Ebon Maw.md","permalink":"/locations/the-ebon-maw/","dgPassFrontmatter":true,"noteIcon":""}
+{"type":"sector","region":"Outlands","generator":"Obsidian","campaign":"The Shattered Obelisk","dg-publish":true,"dg-path":"Locations/The Ebon Maw.md","cssclasses":["Starforged"],"permalink":"/locations/the-ebon-maw/","contentClasses":"Starforged","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # The Ebon Maw

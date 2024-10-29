@@ -28,9 +28,8 @@
 
 ## Locations
 
-| Location                                                                            | Type       | Cell             |
-| ----------------------------------------------------------------------------------- | ---------- | ---------------- |
-| [[Campaigns/The Shattered Obelisk/locations/Ember\|Ember]]                       | settlement | Ember            |
-| [[Campaigns/The Shattered Obelisk/locations/Valkyrie Station\|Valkyrie Station]] | settlement | Valkyrie Station |
+| Location                                                      | Type       | Cell  |
+| ------------------------------------------------------------- | ---------- | ----- |
+| [[Campaigns/The Shattered Obelisk/locations/Ember\|Ember]] | settlement | Ember |
 
 { .block-language-dataview}

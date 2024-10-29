@@ -52,13 +52,13 @@
  }
 
 
-.starforged.h1, .starforged.h2, .starforged.h3 {
-	font-family: "Oxanium", sans-serif;
-	font-variant: petite-caps ;
+.starforged h1, .starforged h2, .starforged h3 {
+	font-family: 'Oxanium', sans-serif;
+	font-variant: all-petite-cap ;
  }
  
  .inline-title {
-	font-family: "Oxanium", sans-serif;
+	font-family: 'Oxanium', sans-serif;
 	 text-align: center;
  }
 

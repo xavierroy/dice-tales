@@ -1,5 +1,5 @@
 ---
-{"game":"Starforged","type":"campaign","campaign":"The Shattered Obelisk","name":"The Shattered Obelisk","character":"[[wraith|Wraith]]","aliases":["TSO"],"cssclasses":["wide","starforged"],"locations":"[[Campaigns/The Shattered Obelisk/locations/The Ebon Maw\|The Ebon Maw]]","dg-publish":true,"title":"The Shattered Obelisk","tags":["#story"],"permalink":"/campaigns/the-shattered-obelisk/","contentClasses":"wide starforged","dgPassFrontmatter":true,"noteIcon":""}
+{"game":"Starforged","type":"campaign","campaign":"The Shattered Obelisk","name":"The Shattered Obelisk","character":"[[wraith|Wraith]]","aliases":["TSO"],"cssclasses":["wide","starforged"],"locations":null,"dg-publish":true,"title":"The Shattered Obelisk","tags":["#story"],"permalink":"/campaigns/the-shattered-obelisk/","contentClasses":"wide starforged","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ![tso-banner.png](/img/user/Campaigns/The%20Shattered%20Obelisk/images/tso-banner.png)
@@ -8,7 +8,7 @@
 
 The Shattered Obelisk is an episodic serialised story that I am co-creating with AI tools while playing a solo role-playing game. This story features [[Characters/wraith\|Kaelen Vashti]], a bounty hunter who is looking for vengeance against a band of raiders who destroyed their community. [^jw]
 
-The story starts off in [[The Ebon Maw]] sector of the Outlands region of the [[Locations/The Forge\|The Forge]],
+The story starts off in [[Campaigns/The Shattered Obelisk/locations/The Ebon Maw\|The Ebon Maw]] sector of the Outlands region of the [[Locations/The Forge\|The Forge]],
 
 [^jw]: Any resemblance to John Wick or any movie is the result of your overactive imagination. 😉
 

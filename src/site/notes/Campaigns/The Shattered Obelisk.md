@@ -6,7 +6,7 @@
 
 # The Shattered Obelisk
 
-The Shattered Obelisk is an episodic serialised story that I am co-creating with AI tools while playing a solo role-playing game. This story features Kaelen Vashti, a bounty hunter who is looking for vengeance against a band of raiders who destroyed their community. [^jw]
+The Shattered Obelisk is an episodic serialised story that I am co-creating with AI tools while playing a solo role-playing game. This story features [[Characters/wraith\|Kaelen Vashti]], a bounty hunter who is looking for vengeance against a band of raiders who destroyed their community. [^jw]
 
 [^jw]: Any resemblance to John Wick or any movie is the result of your overactive imagination. 😉
 

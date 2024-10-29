@@ -1,5 +1,5 @@
 ---
-{"type":"settlement","settlement-type":"Orbital","firstLook":"","initialContact":null,"population":"Thousands","authority":"Tolerant","projects":"","trouble":"","cell":"Valkyrie Station","generator":"NotebookLM","location":[{"sector":"The Ebon Maw"},{"region":"The Outlands"}],"campaign":"The Shattered Obelisk","aliases":["VS","ValkStat"],"cssclasses":["col-alt","col-lines","table-tiny","row-highlight"],"dg-publish":true,"permalink":"/campaigns/the-shattered-obelisk/locations/valkyrie-station/","contentClasses":"col-alt col-lines table-tiny row-highlight","dgPassFrontmatter":true,"noteIcon":""}
+{"type":"settlement","settlement-type":"Orbital","firstLook":"","initialContact":null,"population":"Thousands","authority":"Tolerant","projects":"","trouble":"","cell":"Valkyrie Station","generator":"NotebookLM","location":[{"sector":"The Ebon Maw"},{"region":"The Outlands"}],"campaign":"The Shattered Obelisk","aliases":["VS","ValkStat"],"cssclasses":["col-alt","col-lines","table-tiny","row-highlight"],"dg-publish":true,"dg-path":"locations/valkyrie-station.md","permalink":"/locations/valkyrie-station/","contentClasses":"col-alt col-lines table-tiny row-highlight","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

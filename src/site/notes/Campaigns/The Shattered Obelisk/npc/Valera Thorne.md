@@ -1,9 +1,8 @@
 ---
-{"campaign":"The Shattered Obelisk","aliases":["Valera","Whistle"],"name":"Valera Thorne","type":"npc","role":"Explorer","callsign":"Whistle","disposition":"Guarded","firstLook":"Wounded, Haunted","goal":"reclaim my family's legacy.","revealedAspect":"Determined","difficulty":null,"inprogress":true,"bond":false,"location":{"sector":"The Ebon Maw","planet":null,"settlement":[["Valkyrie Station"]]},"obsidianUIMode":"preview","dg-publish":true,"permalink":"/campaigns/the-shattered-obelisk/npc/valera-thorne/","dgPassFrontmatter":true,"noteIcon":""}
+{"campaign":"The Shattered Obelisk","aliases":["Valera","Whistle"],"name":"Valera Thorne","type":"npc","role":"Explorer","callsign":"Whistle","disposition":"Guarded","firstLook":"Wounded, Haunted","goal":"reclaim my family's legacy.","revealedAspect":"Determined","difficulty":null,"inprogress":true,"bond":false,"location":{"sector":"The Ebon Maw","planet":null,"settlement":[["Valkyrie Station"]]},"obsidianUIMode":"preview","dg-publish":true,"cssclasses":["starforged","npc"],"permalink":"/campaigns/the-shattered-obelisk/npc/valera-thorne/","contentClasses":"starforged npc","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # Valera Thorne (Whistle)
-
 
 
 ![Valera-Thorne.jpg](/img/user/Campaigns/The%20Shattered%20Obelisk/images/Valera-Thorne.jpg) [^vt-pic]

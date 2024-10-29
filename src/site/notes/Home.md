@@ -2,8 +2,8 @@
 {"aliases":["Home"],"dg-home":true,"dg-publish":true,"title":"Welcome to Tales of the Dice","dg-metatags":{"description":"stories from solo roleplaying game sessions","og-title":"Tales from the Dice"},"permalink":"/home/","metatags":{"description":"stories from solo roleplaying game sessions","og-title":"Tales from the Dice"},"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-# Welcome to Tales of the Dice 👋🏾
-
+# Welcome to Tales of the Dice 👋🏾 
+![dice.jpg](/img/user/Images/dice.jpg)
 A few years ago, I delved into the world of tabletop role-playing games (TTRPGs) and quickly fell in love with Shawn Tomkin's Ironsworn. The game's versatility and its unique "play-to-see-what happens" mechanics, where decisions and dice rolls shape the narrative, captivated me.
 
 I primarily enjoy playing Solo RPGs, which means I embark on these adventures by myself. This website serves as a platform to chronicle my solo gaming experiences, transforming my gameplay sessions into a quasi-narrative format.

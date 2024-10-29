@@ -1,8 +1,9 @@
 ---
-{"type":"episode","campaign":"The Shattered Obelisk","title":"Arrival at Valkyrie Station","episode":"TSO-001","location":"Valkyrie Station","tools":["Claude"],"dg-publish":true,"dg-permalink":"the-shattered-obelisk/001","dg-metatags":{"og:title":"Arrival at Valkyrie Station","description":"TSO-001: Kaelen Vashti arrives at Valkyrie Station to meet Valera Thorne.","og:image":"/img/user/Campaigns/The%20Shattered%20Obelisk/images/tso-banner.png"},"permalink":"/the-shattered-obelisk/001/","metatags":{"og:title":"Arrival at Valkyrie Station","description":"TSO-001: Kaelen Vashti arrives at Valkyrie Station to meet Valera Thorne.","og:image":"/img/user/Campaigns/The%20Shattered%20Obelisk/images/tso-banner.png"},"dgPassFrontmatter":true,"noteIcon":""}
+{"type":"episode","campaign":"The Shattered Obelisk","title":"Arrival at Valkyrie Station","episode":"TSO-001","location":"Valkyrie Station","tools":["Claude"],"dg-publish":true,"dg-permalink":"the-shattered-obelisk/001","dg-metatags":{"og:title":"Arrival at Valkyrie Station","description":"TSO-001: Kaelen Vashti arrives at Valkyrie Station to meet Valera Thorne.","og:image":"/img/user/Campaigns/The%20Shattered%20Obelisk/images/tso-banner.png"},"cssclasses":["banner","banner-fade","starforged"],"permalink":"/the-shattered-obelisk/001/","metatags":{"og:title":"Arrival at Valkyrie Station","description":"TSO-001: Kaelen Vashti arrives at Valkyrie Station to meet Valera Thorne.","og:image":"/img/user/Campaigns/The%20Shattered%20Obelisk/images/tso-banner.png"},"contentClasses":"banner banner-fade starforged","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
-![tso-banner.png](/img/user/Campaigns/The%20Shattered%20Obelisk/images/tso-banner.png)
+
+![tso-banner.png|banner](/img/user/Campaigns/The%20Shattered%20Obelisk/images/tso-banner.png)
 [[Campaigns/The Shattered Obelisk\|The Shattered Obelisk]] ⬆️
 
 > [!session]-

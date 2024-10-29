@@ -4,17 +4,26 @@
 
 # Kaelen Vashti (Wraith)
 
-![Kaelen-Vashti.jpg](/img/user/Characters/Kaelen-Vashti.jpg)
 
-- **Look:** Lean and agile frame; Sharp, watchful eyes; A collection of scars tells a silent story of past encounters; Favors dark, practical clothing that blends into the shadows.
-- **Act:** Quiet and observant; Prefers actions to words; Highly focused and driven; A hint of sadness lingers beneath the surface.
-- **Wear:** A worn leather jacket, a symbol of their past life; Fingerless gloves allow for precise handling of weapons; A utility belt carries essential tools and a data slate.
-
-### Assets
-
-- Starship: [[Campaigns/The Shattered Obelisk/assets/Silent Fury\|Silent Fury]]
-- Companion : [[Campaigns/The Shattered Obelisk/assets/Whisper\|Whisper]]
-- Paths: [[Campaigns/The Shattered Obelisk/assets/Wraith_BountyHunter\|Bounty Hunter]] & [[Campaigns/The Shattered Obelisk/assets/Wraith_Sniper\|Sniper]]
+> [!infobox|]
+> # Kaelen Vashti
+> ![Kaelen-Vashti.jpg|cover](/img/user/Characters/Kaelen-Vashti.jpg)
+> ### Stats
+>| Edge         | Heart         | Iron         | Shadow         | Wits         |
+>| ------------ | ------------- | ------------ | -------------- | ------------ |
+>| 3 | 2 | 2 | 1 | 1 |
+> ### Meters
+> | Health | Spirit | Supply | Wealth | Momentum |
+> | --- | --- | --- | --- | --- |
+> | 5 | 5 | 5 | `=this.Wealth` | 2 |
+> ### Assets
+> - Starship: [[Campaigns/The Shattered Obelisk/assets/Silent Fury\|Silent Fury]]
+> - Companion : [[Campaigns/The Shattered Obelisk/assets/Whisper\|Whisper]]
+> - Paths: [[Campaigns/The Shattered Obelisk/assets/Wraith_BountyHunter\|Bounty Hunter]] & [[Campaigns/The Shattered Obelisk/assets/Wraith_Sniper\|Sniper]]
+> ### Appearance
+> - **Look:** Lean and agile frame; Sharp, watchful eyes; A collection of scars tells a silent story of past encounters; Favors dark, practical clothing that blends into the shadows.
+>- **Act:** Quiet and observant; Prefers actions to words; Highly focused and driven; A hint of sadness lingers beneath the surface.
+> - **Wear:** A worn leather jacket, a symbol of their past life; Fingerless gloves allow for precise handling of weapons; A utility belt carries essential tools and a data slate.
 
 ### Backstory
 
@@ -50,15 +59,6 @@ Kaelen carries as his inventory in his Spacer Kit:
 { #0acfe8}
 
 
-## Stats
-| Edge         | Heart         | Iron         | Shadow         | Wits         |
-| ------------ | ------------- | ------------ | -------------- | ------------ |
-| 3 | 2 | 2 | 1 | 1 |
-
-## Meters
-| Health | Spirit | Supply | Wealth | Momentum |
-| --- | --- | --- | --- | --- |
-| 5 | 5 | 5 | `=this.Wealth` | 2 |
 
 ## Impacts
 | Misfortunes | Lasting Effects | Burdens |

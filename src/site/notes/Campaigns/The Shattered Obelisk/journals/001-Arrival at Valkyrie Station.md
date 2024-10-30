@@ -26,13 +26,13 @@ Thirty years of watching humanity's dregs flow through Valkyrie's ports had taug
 
 The man who caught Durant's attention moved like oil through water, his dark, practical clothing making him nearly invisible against the shadows cast by the station's industrial lighting. The worn leather jacket and utility belt spoke of a life lived in the void, but it was his eyes that set off every warning bell in Durant's veteran instincts – they were the eyes of someone who had seen the darkness between the stars and learned to call it home.
 
-*Whisper*, the ethereal companion that only *Kaelen* (for that was the man's name) could perceive, flickered at the edges of their consciousness like a dying star. The sprite's presence was a cold comfort in the sterile, over-processed air of the station, its otherworldly awareness detecting the weight of hidden surveillance systems and the subtle shift of security drone patterns overhead.
+*Whisper*, the ethereal companion that only *Kaelen* (for that was the man's name) could perceive, flickered at the edges of his consciousness like a dying star. The sprite's presence was a cold comfort in the sterile, over-processed air of the station, its otherworldly awareness detecting the weight of hidden surveillance systems and the subtle shift of security drone patterns overhead.
 
 At the processing station, Durant studied the offered data slate, its surface gleaming with encrypted data that seemed to shift and change under his gaze. The records were perfect – too perfect. Like a void-sealed hull with no signs of wear, their very flawlessness marked them as suspect.
 
 'Welcome to the station,' Durant said, each word measured and heavy with unspoken suspicion. 'Proceed to customs.' The standard phrase felt like ash in his mouth.
 
-Kaelen Vashti moved through the security checkpoint with measured steps, Whisper's ethereal form casting no shadow in the harsh industrial lighting. The sprite's warning came as a cold whisper in their mind: they were being watched. Not just by Durant – whose eyes Kaelen could feel boring into their back – but by others, hidden in the station's labyrinthine security systems.
+Kaelen Vashti moved through the security checkpoint with measured steps, Whisper's ethereal form casting no shadow in the harsh industrial lighting. The sprite's warning came as a cold whisper in his mind: they were being watched. Not just by Durant – whose eyes Kaelen could feel boring into his back – but by others, hidden in the station's labyrinthine security systems.
 
 The message from Valera Thorne burned in his secure comm like a frozen ember: coordinates for a meeting in the depths of Freyja Ring's market warren, where the station's tens of thousands of souls traded in everything from stolen ship parts to forbidden data. The information she offered would set him up for life – assuming he lived long enough to collect.
 

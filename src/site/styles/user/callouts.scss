@@ -273,7 +273,7 @@ Author: ElsaTam (Kapirklaa in Discord)
     text-align: right;
   }
   .aside,
-  .is-readable-line-width..aside-right {
+  .is-readable-line-width.aside-right {
     margin-right: calc(-1 * var(--aside-width) - var(--aside-gap));
     border-right: none;
     padding-inline: 15px 0;

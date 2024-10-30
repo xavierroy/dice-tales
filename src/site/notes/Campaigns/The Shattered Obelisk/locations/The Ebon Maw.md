@@ -32,5 +32,6 @@
 | ----------------------------------------------------------------------------------- | ---------- | ---------------- |
 | [[Campaigns/The Shattered Obelisk/locations/Ember\|Ember]]                       | settlement | Ember            |
 | [[Campaigns/The Shattered Obelisk/locations/Valkyrie Station\|Valkyrie Station]] | settlement | Valkyrie Station |
+| [[Campaigns/The Shattered Obelisk/sessions/Session 000\|Session 000]]            | session    | \-               |
 
 { .block-language-dataview}

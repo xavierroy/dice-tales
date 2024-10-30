@@ -37,7 +37,7 @@
 > [!prompt]
 > Indicates any AI prompts used during gameplay and story development. 
 
-> [!aside]
+> [!aside|clean right]
 > Any asides related to surrounding content.
 
 

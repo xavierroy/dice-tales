@@ -59,6 +59,10 @@
     --callout-color: 227, 107, 167;
 }
 
+.callout[data-callout="prompt"] {
+  --callout-icon: lucide-robot;
+  --callout-color: 158, 158, 158;
+}
 
 
 /*Infobox*/

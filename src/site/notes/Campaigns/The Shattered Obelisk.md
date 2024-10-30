@@ -1,12 +1,12 @@
 ---
-{"game":"Starforged","type":"campaign","campaign":"The Shattered Obelisk","name":"The Shattered Obelisk","character":"[[wraith|Wraith]]","aliases":["TSO"],"cssclasses":["wide","starforged"],"locations":null,"dg-publish":true,"title":"The Shattered Obelisk","permalink":"/campaigns/the-shattered-obelisk/","contentClasses":"wide starforged","dgPassFrontmatter":true,"noteIcon":""}
+{"game":"Starforged","type":"campaign","campaign":"The Shattered Obelisk","name":"The Shattered Obelisk","character":"[[Wraith|Wraith]]","aliases":["TSO"],"cssclasses":["wide","starforged"],"locations":null,"dg-publish":true,"title":"The Shattered Obelisk","permalink":"/campaigns/the-shattered-obelisk/","contentClasses":"wide starforged","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 ![tso-banner.png](/img/user/Campaigns/The%20Shattered%20Obelisk/images/tso-banner.png)
 
 # The Shattered Obelisk
 
-The Shattered Obelisk is an episodic serialised story that I am co-creating with AI tools while playing a solo role-playing game. This story features [[Characters/wraith\|Kaelen Vashti]], a bounty hunter who is looking for vengeance against a band of raiders who destroyed their community. [^jw]
+The Shattered Obelisk is an episodic serialised story that I am co-creating with AI tools while playing a solo role-playing game. This story features [[Characters/Wraith\|Kaelen Vashti]], a bounty hunter who is looking for vengeance against a band of raiders who destroyed their community. [^jw]
 
 The story starts off in [[Campaigns/The Shattered Obelisk/locations/The Ebon Maw\|The Ebon Maw]] sector of the Outlands region of the [[Locations/The Forge\|The Forge]],
 
@@ -37,7 +37,7 @@ I am not sure how this story will turn out. The roll of the dice will determine 
 
 | Number  | Title                                                                                                        | Locations        |
 | ------- | ------------------------------------------------------------------------------------------------------------ | ---------------- |
-| TSO-001 | [[Campaigns/The Shattered Obelisk/journals/001-Arrival at Valkyrie Station\|Arrival at Valkyrie Station]] | Valkyrie Station |
+| TSO-000 | [[Campaigns/The Shattered Obelisk/journals/000-Arrival at Valkyrie Station\|Arrival at Valkyrie Station]] | Valkyrie Station |
 
 { .block-language-dataview}
 

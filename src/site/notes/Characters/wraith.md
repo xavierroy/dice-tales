@@ -1,5 +1,5 @@
 ---
-{"type":"character","Name":"Kaelen Vashti","Callsign":"Wraith","Pronouns":"They/Them","Edge":3,"Heart":2,"Iron":2,"Shadow":1,"Wits":1,"Health":5,"Spirit":5,"Supply":5,"Momentum":2,"Wealth":0,"Wounded":"⬡","Shaken":"⬡","Unprepared":"⬡","Harmed":"⬡","Traumatized":"⬡","Doomed":"⬡","Tormented":"⬡","Indebted":"⬡","XPSpent":0,"Bonds_Progress":0,"Bonds_TrackImage":"[[progress-track-0.svg]]","Bonds_XPEarned":0,"Discoveries_Progress":0,"Discoveries_TrackImage":"[[progress-track-0.svg]]","Discoveries_XPEarned":0,"Quests_Progress":0,"Quests_TrackImage":"[[progress-track-0.svg]]","Quests_XPEarned":0,"aliases":["Kaelen Vashti","Kaelen","Wraith"],"campaign":"The Shattered Obelisk","dg-publish":true,"dg-path":"Campaigns/The Shattered Obelisk/Wraith.md","cssclasses":["starforged","player"],"permalink":"/campaigns/the-shattered-obelisk/wraith/","contentClasses":"starforged player","dgPassFrontmatter":true,"noteIcon":""}
+{"type":"character","Name":"Kaelen Vashti","Callsign":"Wraith","Pronouns":"They/Them","Edge":3,"Heart":2,"Iron":2,"Shadow":1,"Wits":1,"Health":5,"Spirit":5,"Supply":4,"Momentum":3,"Wealth":0,"Wounded":"⬡","Shaken":"⬡","Unprepared":"⬡","Harmed":"⬡","Traumatized":"⬡","Doomed":"⬡","Tormented":"⬡","Indebted":"⬡","XPSpent":0,"Bonds_Progress":0,"Bonds_TrackImage":"[[progress-track-0.svg]]","Bonds_XPEarned":0,"Discoveries_Progress":0,"Discoveries_TrackImage":"[[progress-track-0.svg]]","Discoveries_XPEarned":0,"Quests_Progress":0,"Quests_TrackImage":"[[progress-track-0.svg]]","Quests_XPEarned":0,"aliases":["Kaelen Vashti","Kaelen","Wraith"],"campaign":"The Shattered Obelisk","dg-publish":true,"dg-path":"Campaigns/The Shattered Obelisk/Wraith.md","cssclasses":["starforged","player"],"permalink":"/campaigns/the-shattered-obelisk/wraith/","contentClasses":"starforged player","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # Kaelen Vashti (Wraith)
@@ -15,7 +15,7 @@
 > ### Meters
 > | Health | Spirit | Supply | Wealth | Momentum |
 > | --- | --- | --- | --- | --- |
-> | 5 | 5 | 5 | `=this.Wealth` | 2 |
+> | 5 | 5 | 4 | `=this.Wealth` | 3 |
 > ### Assets
 > - Starship: [[Campaigns/The Shattered Obelisk/assets/Silent Fury\|Silent Fury]]
 > - Companion : [[Campaigns/The Shattered Obelisk/assets/Whisper\|Whisper]]
@@ -86,9 +86,10 @@ Kaelen carries as his inventory in his Spacer Kit:
 { .block-language-dataview}
 
 ## Vows / Progress Tracks
-| Vow                                                                                     | Progress                                                             |
-| --------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [[Campaigns/The Shattered Obelisk/progress/background-vow\|Kaelen's Background Vow]] | ![[Images/Shortcut_Images/ProgressTracks/progress-track-1.svg\|150]] |
+| Vow                                                                                         | Progress                                                             |
+| ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| [[Campaigns/The Shattered Obelisk/progress/background-vow\|Kaelen's Background Vow]]     | ![[Images/Shortcut_Images/ProgressTracks/progress-track-1.svg\|150]] |
+| [[Campaigns/The Shattered Obelisk/progress/Save Valera\|Travel to Ember to save Valera]] | ![[Images/Shortcut_Images/ProgressTracks/progress-track-0.svg\|150]] |
 
 { .block-language-dataview}
 

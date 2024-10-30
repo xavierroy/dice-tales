@@ -219,3 +219,64 @@
 .theme-light .callout[data-callout~=infobox][data-callout-metadata~=wikipedia] {
   --th-text: var(--th);
 }
+
+/* GPLv3 license
+FAS - Aside
+Author: ElsaTam (Kapirklaa in Discord)
+*/
+/* Compatibility with ITS theme/snippets */
+
+
+
+.aside,
+.aside-left,
+.aside-right {
+
+  --aside-width: 20rem;
+  --aside-gap: 4rem;
+  --aside-border-thickness: 4px;
+  text-decoration: none;
+  display: block;
+  border-radius: var(--radius-l);
+  border: var(--aside-border-thickness) var(--color-accent) groove;
+  padding: 15px;
+  margin: 5px;
+  width: var(--aside-width);
+}
+
+.is-readable-line-width.aside-left {
+  float: left;
+  clear: left;
+  margin-right: var(--fas-float-inline-margin, 12px);
+}
+
+.aside,
+.is-readable-line-width.aside-right {
+  float: right;
+  clear: right;
+  margin-left: var(--fas-float-inline-margin, 12px);
+border: 1px solid red;
+}
+
+@container content (width > 1100px) {
+  .aside,
+  .is-readable-line-width.aside-right,
+  .is-readable-line-width.aside-left {
+    --aside-width: calc(50cqw - var(--file-line-width) * 0.5 - var(--aside-gap) * 2);
+    margin-inline: 0;
+    border-block: none;
+    padding-block: 0;
+  }
+  .is-readable-line-width.aside-left {
+    margin-left: calc(-1 * var(--aside-width) - var(--aside-gap));
+    border-left: none;
+    padding-inline: 0 15px;
+    text-align: right;
+  }
+  .aside,
+  .is-readable-line-width..aside-right {
+    margin-right: calc(-1 * var(--aside-width) - var(--aside-gap));
+    border-right: none;
+    padding-inline: 15px 0;
+  }
+}

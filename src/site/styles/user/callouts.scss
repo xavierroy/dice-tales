@@ -44,23 +44,23 @@
 }
 
 .callout[data-callout="vow"] {
-    --callout-icon: lucide-hand;
+    --callout-icon: hand;
     --callout-color: 233, 151, 63;
 }
 
 .callout[data-callout="locale"] {
-    --callout-icon: lucide-radar;
+    --callout-icon: radar;
     --callout-color: 169, 169, 229;
     
 }
 
 .callout[data-callout="session"] {
-    --callout-icon: lucide-notebook-pen;
+    --callout-icon: notebook-tabs;
     --callout-color: 227, 107, 167;
 }
 
 .callout[data-callout="prompt"] {
-  --callout-icon: lucide-robot;
+  --callout-icon: robot;
   --callout-color: 158, 158, 158;
 }
 

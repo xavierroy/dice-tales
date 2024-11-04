@@ -24,7 +24,10 @@
 
 
 
-
+![TheEbonMaw.png](/img/user/Campaigns/The%20Shattered%20Obelisk/images/TheEbonMaw.png) [^img]
+#### Passages
+- **Valkyrie Passage** from a nearby sector to Valkyrie Station
+- **Emberian Drift** from Valkyrie Station to Ember
 
 ## Locations
 
@@ -32,7 +35,8 @@
 | ----------------------------------------------------------------------------------- | ---------- | ---------------- |
 | [[Campaigns/The Shattered Obelisk/locations/Ember\|Ember]]                       | settlement | Ember            |
 | [[Campaigns/The Shattered Obelisk/locations/Valkyrie Station\|Valkyrie Station]] | settlement | Valkyrie Station |
-| [[Campaigns/The Shattered Obelisk/sessions/Session 000\|Session 000]]            | session    | \-               |
-| [[Campaigns/The Shattered Obelisk/sessions/Session 001\|Session 001]]            | session    | \-               |
 
 { .block-language-dataview}
+
+
+[^img]: Created using Stargazer

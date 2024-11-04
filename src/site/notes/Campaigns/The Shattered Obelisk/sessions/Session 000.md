@@ -207,7 +207,7 @@ Since we already have Valkyrie Station, I'll create any other settlements as the
 
 As I have only one settlement, Valkyrie Station available currently, I'll name it the **Valkyrie Passage** for lack of a better name. 
 
-I'll update The Ebon Maw sector as we discover new places. 
+I'll update [[Campaigns/The Shattered Obelisk/locations/The Ebon Maw\|The Ebon Maw]] sector as we discover new places. 
 
 ### Create a local connection
 
@@ -224,11 +224,12 @@ So that's where our story begins in our next session,  [[Campaigns/The Shattered
 
 ---
 ### Gameplay Findings
-- Character: [[Characters/Wraith\|Kaelen Vashti]], a [[Campaigns/The Shattered Obelisk/assets/Wraith_BountyHunter\|Bounty Hunter]] & [[Campaigns/The Shattered Obelisk/assets/Wraith_Sniper\|Sniper]] travelling with his sprite companion, [[Campaigns/The Shattered Obelisk/assets/Whisper\|Whisper]] aboard his starship, [[Campaigns/The Shattered Obelisk/assets/Silent Fury\|Silent Fury]]
-- Locations: (location::[[Campaigns/The Shattered Obelisk/locations/Valkyrie Station\|Valkyrie Station]]), (location::[[Campaigns/The Shattered Obelisk/locations/The Ebon Maw\|The Ebon Maw]])
-- NPCs: (npc::[[Campaigns/The Shattered Obelisk/npc/Valera Thorne\|Valera Thorne]])
--  Groups: (factions::[[The Crimson Reavers\|The Crimson Reavers]]) 
-- Vows: (vow::[[Campaigns/The Shattered Obelisk/progress/background-vow\|I vow to eradicate the Crimson Reavers from the Forge, leaving no trace of their cruelty.]])
+- Player Character: [[Characters/Wraith\|Kaelen Vashti]], a [[Campaigns/The Shattered Obelisk/assets/Wraith_BountyHunter\|Bounty Hunter]] & [[Campaigns/The Shattered Obelisk/assets/Wraith_Sniper\|Sniper]] travelling with his sprite companion, [[Campaigns/The Shattered Obelisk/assets/Whisper\|Whisper]] aboard his starship, [[Campaigns/The Shattered Obelisk/assets/Silent Fury\|Silent Fury]]
+- Locations: (location::[[Campaigns/The Shattered Obelisk/locations/Valkyrie Station\|Valkyrie Station]] ),  (location::[[Campaigns/The Shattered Obelisk/locations/The Ebon Maw\|The Ebon Maw]] )
+- NPCs: (npc::[[Campaigns/The Shattered Obelisk/npc/Valera Thorne\|Valera Thorne]] )
+-  Groups: (factions::[[The Crimson Reavers\|The Crimson Reavers]] ) 
+- Vows: 
+	- (vow::[[Campaigns/The Shattered Obelisk/progress/background-vow\|I vow to eradicate the Crimson Reavers from the Forge, leaving no trace of their cruelty.]] )
 
 
 

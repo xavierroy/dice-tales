@@ -12,7 +12,7 @@
 >| ------------------- | ---------------------------- |
 >| Region              | Outlands                     |
 >| Sector | [[Campaigns/The Shattered Obelisk/locations/The Ebon Maw\|The Ebon Maw]]   |
->| Settlement Name     | Valkyrie Station             |
+>| Settlement Name     | Valkyrie Station   (ValkStat)          |
 >| Location            | Orbital                      |
 >| Population          | Tens of Thousands            |
 >| First Look          | Intimidating defenses        |
@@ -27,11 +27,24 @@ This bustling station is a key stopover point for interstellar travelers and tra
 
 Valkyrie Station boasts numerous docking bays of varying sizes to accommodate a diverse array of starships. Smaller bays cater to swift couriers and personal shuttles, while vast hangars host lumbering freighters and heavily armed warships. The sources describe starships suited for atmospheric and interstellar flight, transporting people and cargo, and capable of launching support vehicles. These descriptions apply perfectly to the ships that would frequent Valkyrie Station.
 
-Valkyrie Station has a thriving marketplace: The station's markets are a labyrinth of stalls and shops. Skilled artisans display their wares alongside hardened scavengers peddling their finds from precursor sites and derelict spacecraft. Here, you can find almost anything:
+ValkStat (how the locals call is) has a thriving marketplace: The station's markets are a labyrinth of stalls and shops. Skilled artisans display their wares alongside hardened scavengers peddling their finds from precursor sites and derelict spacecraft. Here, you can find almost anything:
 	- **Weapons and Armor:** Whether you seek **basic blasters** and **worn armor plating** or **high-tech weaponry** coveted by mercenary guilds, Valkyrie Station's markets cater to diverse needs and budgets.
     - **Starship Components:** Need a new **eidolon drive stabilizer** or a replacement **sensor array**? You are likely to find it here, though the quality and legality of the components might vary.
     - **Information:** **Rumors and whispers** are traded as readily as physical goods. **Information brokers** lurk in shadowy corners, offering **navigational data**, **sector maps**, and **intelligence on rival factions** for the right price. The sources highlight the value of information in the Forge, making it a commodity as precious as any resource.
 
 Valkyrie Station attracts travelers from across the Forge, representing various factions and powers. **Mercenary guilds** might recruit spacers for dangerous missions, while **trade caravans** seek passage to distant settlements. The station's bustling nature provides fertile ground for **quests** and **intrigue**.
+
+### Contacts
+
+
+| Name                                                                    | Location         |
+| ----------------------------------------------------------------------- | ---------------- |
+| [[Campaigns/The Shattered Obelisk/npc/Valera Thorne\|Valera Thorne]] | Valkyrie Station |
+
+{ .block-language-dataview}
+
+
+#### Passages
+- Valkyrie Passage from a nearby sector to Valkyrie Station
 
 

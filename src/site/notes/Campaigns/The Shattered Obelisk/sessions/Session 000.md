@@ -25,7 +25,7 @@ A Starforged game or campaign starts with:
 ## Choosing our Truths about the Forge
 { #world-truths}
 
-I'll be create the world truths as I play.
+I'll create the world truths as I play.
 
 ## Creating a Player Character
 { #create-pc}

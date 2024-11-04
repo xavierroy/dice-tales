@@ -64,6 +64,11 @@ font-size: 1rem;
   --callout-color: 158, 158, 158;
 }
 
+.callout[data-callout="rules"] {
+  --callout-icon: book-marked;
+  --callout-color: 161, 107, 73;
+}
+
 
 /*Infobox*/
 :is(.is-mobile:not(.is-tablet),

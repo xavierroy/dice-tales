@@ -48,18 +48,17 @@
 
 
   .starforged {
-	font-family: 'Dosis', serif;
-	font-size: 1.1rem;
+	font-family: 'Dosis', 'Inter', 'Roboto', sans-serif;
  }
 
 
 .starforged h1, .starforged h2, .starforged h3 {
-	font-family: 'Oxanium', sans-serif;
-	font-variant: all-petite-cap ;
+	font-family: 'Oxanium', display;
+	font-variant: all-petite-caps ;
  }
  
  .inline-title {
-	font-family: 'Oxanium', sans-serif;
+	font-family: 'Oxanium', display;
 	 text-align: center;
  }
 

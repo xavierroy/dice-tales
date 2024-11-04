@@ -1,10 +1,10 @@
 ---
-{"campaign":"The Shattered Obelisk","type":"session","title":"Setting Things Up","aliases":["TSO-Session Zero","TSO-Session 0","TSO-Setting Things Up"],"tools":["NotebookLM","Gemini"],"date":"2024-10-14","cssclasses":["wide","img-grid"],"dg-metatags":{"og:title":"The Shattered Obelisk: Session 000","description":"where we set things up before we start playing.","og:image":"/img/user/Campaigns/The%20Shattered%20Obelisk/images/tso-banner.png"},"dg-publish":true,"permalink":"/campaigns/the-shattered-obelisk/sessions/session-000/","metatags":{"og:title":"The Shattered Obelisk: Session 000","description":"where we set things up before we start playing.","og:image":"/img/user/Campaigns/The%20Shattered%20Obelisk/images/tso-banner.png"},"contentClasses":"wide img-grid","dgPassFrontmatter":true,"noteIcon":""}
+{"campaign":"The Shattered Obelisk","type":"session","title":"Setting Things Up","aliases":["TSO-Session Zero","TSO-Session 0","TSO-Setting Things Up"],"tools":["NotebookLM","Gemini"],"date":"2024-10-14","cssclasses":["wide","img-grid","starforged"],"dg-metatags":{"og:title":"The Shattered Obelisk: Session 000","description":"where we set things up before we start playing.","og:image":"/img/user/Campaigns/The%20Shattered%20Obelisk/images/tso-banner.png"},"dg-publish":true,"permalink":"/campaigns/the-shattered-obelisk/sessions/session-000/","metatags":{"og:title":"The Shattered Obelisk: Session 000","description":"where we set things up before we start playing.","og:image":"/img/user/Campaigns/The%20Shattered%20Obelisk/images/tso-banner.png"},"contentClasses":"wide img-grid starforged","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # Session 000:  Setting things up
 
-> [!rule] 
+> [!rules] 
 > In [Ironsworn:Starforged](https://tomkinpress.com/pages/ironsworn-starforged), you are a spaceborne hero sworn to undertake perilous quests. You will explore uncharted space, unravel the secrets of a mysterious galaxy, and build bonds with those you meet on your travels. Most importantly, you will swear iron vows and see them fulfilled—no matter the cost.
 > 
 > A typical Starforged game is designed to played right away. But Starforged believes the **prep is play**. So it allows you to do some quick worldbuilding exercises to help you get started before you start playing.

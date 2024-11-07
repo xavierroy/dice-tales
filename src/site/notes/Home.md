@@ -1,5 +1,5 @@
 ---
-{"title":"Home","aliases":["Home","🏡"],"dg-home":true,"dg-note-icon":"home","dg-publish":true,"dg-pinned":true,"dg-metatags":{"description":"stories from solo roleplaying game sessions","og-title":"Tales from the Dice"},"permalink":"/home/","metatags":{"description":"stories from solo roleplaying game sessions","og-title":"Tales from the Dice"},"pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":""}
+{"title":"Home","aliases":["Home","🏡"],"dg-home":true,"dg-note-icon":"home","dg-publish":true,"dg-pinned":true,"dg-metatags":{"description":"stories from solo roleplaying game sessions","og-title":"Tales from the Dice"},"permalink":"/home/","metatags":{"description":"stories from solo roleplaying game sessions","og-title":"Tales from the Dice"},"pinned":true,"tags":["gardenEntry"],"dgPassFrontmatter":true,"noteIcon":"home"}
 ---
 
 # Welcome to Tales of the Dice 👋🏾 
@@ -12,7 +12,7 @@ The beauty of the Ironsworn games is that you can decide what happens based on t
 
 I will be playing Shawn Tomkin’s Ironsworn and its variants:
 * Ironsworn - the base game
-* [[Starforged\|Ironsworn: Starforged]] - a standalone, sci-fi evolution of the Ironsworn RPG
+* [[Games/Starforged\|Ironsworn: Starforged]] - a standalone, sci-fi evolution of the Ironsworn RPG
 * Sundered Isles - a seafaring expansion for Ironsworn: Starforged
 
 > [!important] Use of AI in this site

@@ -1,5 +1,5 @@
 ---
-{"type":"settlement","settlement-type":"Orbital","firstLook":"","initialContact":null,"population":"Thousands","authority":"Tolerant","projects":"","trouble":"","cell":"Valkyrie Station","generator":"NotebookLM","location":[{"sector":"The Ebon Maw"},{"region":"The Outlands"}],"campaign":"The Shattered Obelisk","aliases":["VS","ValkStat"],"cssclasses":["starforged"],"dg-publish":true,"dg-path":"Locations/Valkyrie Station.md","permalink":"/locations/valkyrie-station/","contentClasses":"starforged","dgPassFrontmatter":true,"noteIcon":""}
+{"type":"settlement","settlement-type":"Orbital","firstLook":"","initialContact":null,"population":"Thousands","authority":"Tolerant","projects":"","trouble":"","cell":"Valkyrie Station","generator":"NotebookLM","location":[{"sector":"The Ebon Maw"},{"region":"The Outlands"}],"campaign":"The Shattered Obelisk","aliases":["VS","ValkStat"],"cssclasses":["starforged"],"dg-publish":true,"dg-path":"locations/Valkyrie Station.md","permalink":"/locations/valkyrie-station/","contentClasses":"starforged","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 # Valkyrie Station

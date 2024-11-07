@@ -7,7 +7,7 @@
 Kaelen arrives at (location::[[campaigns/The Shattered Obelisk/locations/Valkyrie Station\|Valkyrie]]). His contact at the station is (npc::[[campaigns/The Shattered Obelisk/npc/Valera Thorne\|Valera Thorne]]). I am assuming that he has already formed a connection with Valera:
 
  > [!mechanics]- Make a Connection
-> 
+>> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 

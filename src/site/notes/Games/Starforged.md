@@ -1,5 +1,5 @@
 ---
-{"aliases":["Ironsworn: Starforged"],"dg-publish":true,"dg-path":"games/Starforged.md","cssclasses":["img-wide","starforged"],"permalink":"/games/starforged/","contentClasses":"img-wide starforged","dgPassFrontmatter":true,"noteIcon":""}
+{"aliases":["Ironsworn: Starforged"],"dg-publish":true,"dg-path":"games/Starforged.md","dg-note-icon":"starforged","cssclasses":["img-wide","starforged"],"permalink":"/games/starforged/","contentClasses":"img-wide starforged","dgPassFrontmatter":true,"noteIcon":"starforged"}
 ---
 
 

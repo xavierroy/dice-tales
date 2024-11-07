@@ -4,7 +4,7 @@
 
 # Valera Thorne (Whistle)
 
-> [!infobox]
+> [!infobox|]
 > # Valera Thorne
 > ![Valera-Thorne.jpg|cover](/img/user/campaigns/The%20Shattered%20Obelisk/images/Valera-Thorne.jpg)
 > 
@@ -18,7 +18,6 @@
 > | Goal: | Reclaim my family's legacy. |
 > | Revealed Aspect: | Determined |
 > | Bond: | no bond|
-> 
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"campaign":"The Shattered Obelisk","type":"session","title":"Rendezvous at Valkyrie","aliases":["Kaelen arrives at Valkyrie Station","Rendezvous at Valkyrie"],"tools":["NotebookLM","Gemini"],"date":"2024-10-17","cssclasses":["wide"],"dg-publish":true,"dg-note-icon":"starforged","dg-metatags":{"og:title":"The Shattered Obelisk: Session 001","description":"where we find out what happens when Kaelen lands in Valkyrie Station","og:image":"/img/user/Campaigns/The%20Shattered%20Obelisk/images/tso-banner.png"},"permalink":"/campaigns/the-shattered-obelisk/sessions/session-001/","metatags":{"og:title":"The Shattered Obelisk: Session 001","description":"where we find out what happens when Kaelen lands in Valkyrie Station","og:image":"/img/user/Campaigns/The%20Shattered%20Obelisk/images/tso-banner.png"},"contentClasses":"wide","dgPassFrontmatter":true,"noteIcon":"starforged"}
+{"campaign":"The Shattered Obelisk","type":"session","title":"001-Rendezvous at Valkyrie","aliases":["Kaelen arrives at Valkyrie Station","Rendezvous at Valkyrie"],"tools":["NotebookLM","Gemini"],"date":"2024-10-17","cssclasses":["wide"],"dg-publish":true,"dg-note-icon":"starforged","dg-metatags":{"og:title":"The Shattered Obelisk: Session 001","description":"where we find out what happens when Kaelen lands in Valkyrie Station","og:image":"/img/user/Campaigns/The%20Shattered%20Obelisk/images/tso-banner.png"},"permalink":"/campaigns/the-shattered-obelisk/sessions/session-001/","metatags":{"og:title":"The Shattered Obelisk: Session 001","description":"where we find out what happens when Kaelen lands in Valkyrie Station","og:image":"/img/user/Campaigns/The%20Shattered%20Obelisk/images/tso-banner.png"},"contentClasses":"wide","dgPassFrontmatter":true,"noteIcon":"starforged"}
 ---
 
 # Session 001: Rendezvous at Valkyrie
@@ -24,6 +24,7 @@ On a **miss**, you don't make a connection and the situation worsens. [Pay the P
 
 </div></div>
 
+>> 
 
 Since we are just starting our game, I can assume an automatic strong hit for the move.
 

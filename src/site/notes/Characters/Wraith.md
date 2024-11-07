@@ -7,7 +7,7 @@
 
 > [!infobox|]
 > # Kaelen Vashti
-> ![Kaelen-Vashti.jpg|cover](/img/user/Campaigns/The%20Shattered%20Obelisk/images/Kaelen-Vashti.jpg)
+> ![Kaelen-Vashti.jpg|cover](/img/user/campaigns/The%20Shattered%20Obelisk/images/Kaelen-Vashti.jpg)
 > ### Stats
 >| Edge         | Heart         | Iron         | Shadow         | Wits         |
 >| ------------ | ------------- | ------------ | -------------- | ------------ |
@@ -17,9 +17,9 @@
 > | --- | --- | --- | --- | --- |
 > | 5 | 5 | 4 | `=this.Wealth` | 3 |
 > ### Assets
-> - Starship: [[Campaigns/The Shattered Obelisk/assets/Silent Fury\|Silent Fury]]
-> - Companion : [[Campaigns/The Shattered Obelisk/assets/Whisper\|Whisper]]
-> - Paths: [[Campaigns/The Shattered Obelisk/assets/Wraith_BountyHunter\|Bounty Hunter]] & [[Campaigns/The Shattered Obelisk/assets/Wraith_Sniper\|Sniper]]
+> - Starship: [[campaigns/The Shattered Obelisk/assets/Silent Fury\|Silent Fury]]
+> - Companion : [[campaigns/The Shattered Obelisk/assets/Whisper\|Whisper]]
+> - Paths: [[campaigns/The Shattered Obelisk/assets/Wraith_BountyHunter\|Bounty Hunter]] & [[campaigns/The Shattered Obelisk/assets/Wraith_Sniper\|Sniper]]
 > ### Appearance
 > - **Look:** Lean and agile frame; Sharp, watchful eyes; A collection of scars tells a silent story of past encounters; Favors dark, practical clothing that blends into the shadows.
 >- **Act:** Quiet and observant; Prefers actions to words; Highly focused and driven; A hint of sadness lingers beneath the surface.
@@ -31,11 +31,11 @@
 { #e1d6f9}
 
 
-Having lost everything - his home, his purpose, his identity and driven by an all-consuming thirst for vengeance, he shed his old life and embraced the mantle of **Wraith**, transforming from a peaceful artisan into a seasoned **[[Campaigns/The Shattered Obelisk/assets/Wraith_BountyHunter\|bounty hunter]]** and a deadly **[[Campaigns/The Shattered Obelisk/assets/Wraith_Sniper\|sniper]]**. 
+Having lost everything - his home, his purpose, his identity and driven by an all-consuming thirst for vengeance, he shed his old life and embraced the mantle of **Wraith**, transforming from a peaceful artisan into a seasoned **[[campaigns/The Shattered Obelisk/assets/Wraith_BountyHunter\|bounty hunter]]** and a deadly **[[campaigns/The Shattered Obelisk/assets/Wraith_Sniper\|sniper]]**. 
 
-Wraith travels the Forge aboard the [[Campaigns/The Shattered Obelisk/assets/Silent Fury\|Silent Fury]], a sleek and stealthy starship acquired through a contact in the underworld. His pursuit of the Crimson Reavers led them to the darkest corners of the Forge, taking on dangerous contracts that brought him closer to his ultimate goal – the annihilation of those who destroyed everything he held dear.
+Wraith travels the Forge aboard the [[campaigns/The Shattered Obelisk/assets/Silent Fury\|Silent Fury]], a sleek and stealthy starship acquired through a contact in the underworld. His pursuit of the Crimson Reavers led them to the darkest corners of the Forge, taking on dangerous contracts that brought him closer to his ultimate goal – the annihilation of those who destroyed everything he held dear.
 
-During his travels, while exploring the ruins of a Precursor facility searching for information about the Crimson Reavers, Wraith encountered a sprite trapped within a damaged containment field. The sprite's crystalline form resonated with a plea for help, a call Wraith couldn't ignore. Sensing a kindred spirit, a being also marked by loss and isolation, Wraith disabled the field, freeing **[[Campaigns/The Shattered Obelisk/assets/Whisper\|Whisper]]**.
+During his travels, while exploring the ruins of a Precursor facility searching for information about the Crimson Reavers, Wraith encountered a sprite trapped within a damaged containment field. The sprite's crystalline form resonated with a plea for help, a call Wraith couldn't ignore. Sensing a kindred spirit, a being also marked by loss and isolation, Wraith disabled the field, freeing **[[campaigns/The Shattered Obelisk/assets/Whisper\|Whisper]]**.
 
 Whisper, bound by a debt of gratitude, pledged loyalty to **Wraith**. Its unique abilities, navigating tight spaces, bypassing security systems, and gathering information covertly, made it the perfect partner for the lone wolf hunter.
 
@@ -88,8 +88,8 @@ Kaelen carries as his inventory in his Spacer Kit:
 ## Vows / Progress Tracks
 | Vow                                                                                         | Progress                                                             |
 | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [[Campaigns/The Shattered Obelisk/progress/Save Valera\|Travel to Ember to save Valera]] | ![[Images/Shortcut_Images/ProgressTracks/progress-track-0.svg\|150]] |
-| [[Campaigns/The Shattered Obelisk/progress/background-vow\|Kaelen's Background Vow]]     | ![[Images/Shortcut_Images/ProgressTracks/progress-track-1.svg\|150]] |
+| [[campaigns/The Shattered Obelisk/progress/background-vow\|Kaelen's Background Vow]]     | ![[Images/Shortcut_Images/ProgressTracks/progress-track-1.svg\|150]] |
+| [[campaigns/The Shattered Obelisk/progress/Save Valera\|Travel to Ember to save Valera]] | ![[Images/Shortcut_Images/ProgressTracks/progress-track-0.svg\|150]] |
 
 { .block-language-dataview}
 

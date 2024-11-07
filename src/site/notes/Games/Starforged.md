@@ -82,7 +82,7 @@ Remember, the game encourages you to use your imagination and the provided mecha
 
 | Campaign                                                      | Character                        |
 | ------------------------------------------------------------- | -------------------------------- |
-| [[Campaigns/The Shattered Obelisk\|The Shattered Obelisk]] | [[Characters/Wraith\|Wraith]] |
+| [[campaigns/The Shattered Obelisk\|The Shattered Obelisk]] | [[Characters/Wraith\|Wraith]] |
 
 { .block-language-dataview}
 

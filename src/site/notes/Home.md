@@ -30,7 +30,7 @@ I will be playing Shawn Tomkin’s Ironsworn and its variants:
 
 | Campaign                                                      | Character                        | Game       |
 | ------------------------------------------------------------- | -------------------------------- | ---------- |
-| [[Campaigns/The Shattered Obelisk\|The Shattered Obelisk]] | [[Characters/Wraith\|Wraith]] | Starforged |
+| [[campaigns/The Shattered Obelisk\|The Shattered Obelisk]] | [[Characters/Wraith\|Wraith]] | Starforged |
 
 { .block-language-dataview}
 

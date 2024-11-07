@@ -12,6 +12,7 @@ nav.filetree-sidebar h1::before {
   body.filetree-note-icon .filename[data-note-icon="home"]::before{
     content: "🏡";
     background-image: none;
+    padding-right: 0.5rem;
   }
 
 /* Add game icons*/

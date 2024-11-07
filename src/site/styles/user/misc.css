@@ -19,16 +19,35 @@ body.filetree-note-icon .filename[data-note-icon="starforged"]::before,
 body.links-note-icon .internal-link[data-note-icon="starforged"]::before,
 body.backlinks-note-icon .backlink[data-note-icon="starforged"]::before {
   background-image: url(/img/sf-logo.svg);
+  padding-right: 0.5rem;
 }
 body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="ironsworn"]::before,
 body.filetree-note-icon .filename[data-note-icon="ironsworn"]::before,
 body.links-note-icon .internal-link[data-note-icon="ironsworn"]::before,
 body.backlinks-note-icon .backlink[data-note-icon="ironsworn"]::before {
   background-image: url(/img/is-logo.svg);
+  padding-right: 0.5rem;
 }
 body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="sundered"]::before,
 body.filetree-note-icon .filename[data-note-icon="sundered"]::before,
 body.links-note-icon .internal-link[data-note-icon="sundered"]::before,
 body.backlinks-note-icon .backlink[data-note-icon="sundered"]::before {
   background-image: url(/img/si-logo.svg);
+  padding-right: 0.5rem;
+}
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="location"]::before,
+body.filetree-note-icon .filename[data-note-icon="location"]::before,
+body.links-note-icon .internal-link[data-note-icon="location"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="location"]::before {
+  background-image: url(/img/location.svg);
+  padding-right: 0.5rem;
+}
+
+body.title-note-icon .cm-s-obsidian > header > h1[data-note-icon="help"]::before,
+body.filetree-note-icon .filename[data-note-icon="help"]::before,
+body.links-note-icon .internal-link[data-note-icon="help"]::before,
+body.backlinks-note-icon .backlink[data-note-icon="help"]::before {
+  background-image: url(/img/help.svg);
+  padding-right: 0.5rem;
 }

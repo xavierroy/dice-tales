@@ -2,7 +2,7 @@
 {"aliases":["Ironsworn: Starforged"],"dg-publish":true,"dg-path":"games/Starforged.md","dg-note-icon":"starforged","cssclasses":["img-wide","starforged"],"permalink":"/games/starforged/","contentClasses":"img-wide starforged","dgPassFrontmatter":true,"noteIcon":"starforged"}
 ---
 
-
+# Ironsworn: Starforged
 >[!quote]
 > “The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.” - Carl Sagan, *Cosmos*
 

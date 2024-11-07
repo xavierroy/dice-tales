@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"help/callouts.md","permalink":"/help/callouts/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"dg-path":"help/callouts.md","dg-note-icon":"help","permalink":"/help/callouts/","dgPassFrontmatter":true,"noteIcon":"help"}
 ---
 
 # Callout Examples

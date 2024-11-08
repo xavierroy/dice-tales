@@ -88,8 +88,8 @@ Kaelen carries as his inventory in his Spacer Kit:
 ## Vows / Progress Tracks
 | Vow                                                                                         | Progress                                                             |
 | ------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [[campaigns/The Shattered Obelisk/progress/background-vow\|Kaelen's Background Vow]]     | ![[Images/Shortcut_Images/ProgressTracks/progress-track-1.svg\|150]] |
 | [[campaigns/The Shattered Obelisk/progress/Save Valera\|Travel to Ember to save Valera]] | ![[Images/Shortcut_Images/ProgressTracks/progress-track-0.svg\|150]] |
+| [[campaigns/The Shattered Obelisk/progress/background-vow\|Kaelen's Background Vow]]     | ![[Images/Shortcut_Images/ProgressTracks/progress-track-1.svg\|150]] |
 
 { .block-language-dataview}
 

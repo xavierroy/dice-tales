@@ -148,7 +148,6 @@ On a **miss**, you must overcome a significant obstacle before you begin your qu
 > **Difficulty:** Formidable
 
 
-
 Kaelen swears an iron vow to [[campaigns/The Shattered Obelisk/progress/Save Valera\|Save Valera]]. Due to the weak hit, he decides to gather more information about Ember before heading out. 
 - On a strong hit, Kaelen gets very valuable information.
 - On a weak hit, the information is incomplete or comes with a cost.
@@ -212,12 +211,11 @@ Kaelen travels to Ember on his starship. As a result of a weak hit, he is forced
 
 
 
-
-
 ---
 ### Gameplay Findings
 - Locations: (location::[[campaigns/The Shattered Obelisk/locations/Ember\|Ember]])
 - Vows: (vow::[[campaigns/The Shattered Obelisk/progress/Save Valera\|Save Valera]])
+
 
 
 

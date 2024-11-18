@@ -35,8 +35,115 @@ ValkStat (how the locals call is) has a thriving marketplace: The station's mark
     - **Starship Components:** Need a new **eidolon drive stabilizer** or a replacement **sensor array**? You are likely to find it here, though the quality and legality of the components might vary.
     - **Information:** **Rumors and whispers** are traded as readily as physical goods. **Information brokers** lurk in shadowy corners, offering **navigational data**, **sector maps**, and **intelligence on rival factions** for the right price. The sources highlight the value of information in the Forge, making it a commodity as precious as any resource.
 
+### Station Architecture
+
+#### Primary Rings (External → Internal)
+
+1. **Brynhildr Ring** (Defense & Docking)
+    - Military-grade defensive arrays
+    - Multiple-class docking facilities:
+        - Alpha Bays (1-12): Capital ship class
+        - Beta Bays (13-48): Standard merchant class
+        - Gamma Bays (49-156): Personal vessel class
+    - Automated defense grid control
+    - Customs & Immigration
+2. **Freyja Ring** (Commerce)
+    - The Great Market Hall
+    - Information Broker Offices
+    - Guild Headquarters
+    - Trading Houses
+    - Artisan Workshops
+3. **Hildr Ring** (Residential & Services)
+    - Civilian Quarters
+    - Hospitality Sector
+    - Medical Facilities
+    - Entertainment Districts
+4. **Sigrún Core** (Operations)
+    - Station Command
+    - Manufacturing Centers
+    - Power Generation
+    - Life Support Systems
+
+### Cultural Notes
+
+#### Station Demographics
+
+- Permanent Residents: 65%
+- Transient Population: 35%
+- Major Factions Present:
+    - Merchant Guilds
+    - Manufacturing Syndicates
+    - Independent Traders
+    - Mercenary Companies
+    - Information Brokers
+
+#### Commerce Zones
+
+1. **The Great Market Hall** (Freyja Ring)
+    - 500+ registered vendors
+    - 24/7 trading cycles
+    - Specialized sections:
+        - Arms Market (Level 4)
+        - Ship Components (Level 5)
+        - General Goods (Level 3)
+        - Information Exchange (Level 7)
+2. **Guild Quarter** (Freyja Ring, Upper Levels)
+    - Mercenary Guild Offices
+    - Trade Union Headquarters
+    - Artisan Workshops
+    - Broker Enclaves
+
+#### Station Laws & Customs
+
+- Mandatory weapons registration
+- Licensed information trading only
+- Strict docking protocols
+- Manufacturing permits required
+- Free trade zones in designated areas
+
+#### Atmosphere Descriptors
+
+- Constant hum of manufacturing
+- Bustling market crowds
+- Multiple languages and dialects
+- Warning klaxons from docking bays
+- Smell of various cuisines
+- Industrial processes background noise
+
+#### Common Sights
+
+- Armed security patrols
+- Trade caravans moving goods
+- Information brokers in shadows
+- Artisans at their stalls
+- Ship crews negotiating deals
+- Manufacturing drones
+
+#### Station Sayings
+
+- "Trade flows like light through Freyja's halls"
+- "Watch your words in Hildr's shadow"
+- "Brynhildr's eyes never close"
+- "Credit talks, but information whispers"
+
+#### Access Points & Navigation
+
+
+Primary Entrances:
+- Brynhildr Docking Complex (Multiple Bays)
+- Emergency Access Ports (Restricted)
+- Manufacturing Delivery Docks
+- VIP Private Docking (Upper Ring) 
+ 
+Transit Systems: 
+- Ring-to-Ring Express Lifts 
+- Sector Trams 
+- Cargo Transport Networks 
+- Security Rapid Response Tubes
+
 Valkyrie Station attracts travelers from across the Forge, representing various factions and powers. **Mercenary guilds** might recruit spacers for dangerous missions, while **trade caravans** seek passage to distant settlements. The station's bustling nature provides fertile ground for **quests** and **intrigue**.
 
+![marketplace.jpg](/img/user/campaigns/The%20Shattered%20Obelisk/images/marketplace.jpg)
 ### Contacts
 
 

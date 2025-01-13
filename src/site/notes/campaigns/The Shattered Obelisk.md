@@ -16,7 +16,7 @@
 > 
 > I am not sure how this story will turn out. The roll of the dice will determine the directions that this story will take. The narratives are AI-generated.
 
-[^jw]: Any resemblance to John Wick or any movie is the result of your overactive imagination. 😉
+[^jw]: Any resemblance to John Wick or any movie is the result of your overactive imagination. 😉 
 
 ## Episodes
 

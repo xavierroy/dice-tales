@@ -13,7 +13,7 @@
 
 
 
-# Set a Course
+## Set a Course
 
 **When you follow a known route through perilous space, across hazardous terrain, or within a mysterious site**, roll +supply.
 
@@ -46,7 +46,7 @@ He investigates the ship.
 
 
 
-# Gather Information
+## Gather Information
 
 **When you search for clues, conduct an investigation, analyze evidence, or do research**, roll +wits.
 

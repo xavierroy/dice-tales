@@ -89,7 +89,7 @@ Kaelen decides to find out if he can gather any clues about the Crimson Reavers 
 
 
 
-# Gather Information
+## Gather Information
 
 **When you search for clues, conduct an investigation, analyze evidence, or do research**, roll +wits.
 

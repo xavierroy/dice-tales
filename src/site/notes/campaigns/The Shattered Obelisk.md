@@ -24,6 +24,7 @@
 | ------- | ------------------------------------------------------------------------------------- | ---------------- |
 | TSO-000 | [[campaigns/The Shattered Obelisk/narratives/000\|Arrival at Valkyrie Station]]    | Valkyrie Station |
 | TSO-001 | [[campaigns/The Shattered Obelisk/narratives/001\|Kaelen tries to contact Valera]] | Valkyrie Station |
+| TSO-002 | [[campaigns/The Shattered Obelisk/narratives/002\|Kaelen travels to Ember]]        | Valkyrie Station |
 
 { .block-language-dataview}
 

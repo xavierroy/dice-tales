@@ -7,24 +7,23 @@
 # The Shattered Obelisk
 
 
-> [!info]+
-> The Shattered Obelisk is an episodic serialised story that I am co-creating with AI tools while playing a solo [[Games/Starforged\|Starforged]] game. 
-> 
-> This story features [[Characters/Wraith\|Kaelen Vashti]], a bounty hunter who is looking for vengeance against a band of raiders who destroyed their community. [^jw]
-> 
-> The story starts off in [[campaigns/The Shattered Obelisk/locations/The Ebon Maw\|The Ebon Maw]] sector of the Outlands region of the [[Locations/The Forge\|The Forge]].
-> 
-> I am not sure how this story will turn out. The roll of the dice will determine the directions that this story will take. The narratives are AI-generated.
+**The Shattered Obelisk** is an episodic serialised story that I am co-creating with AI tools while playing a solo [[Games/Starforged\|Starforged]] game. 
+ 
+This story features [[Characters/Wraith\|Kaelen Vashti]], a bounty hunter who is looking for vengeance against a band of raiders who destroyed their community. [^jw]
+
+The story starts off in [[campaigns/The Shattered Obelisk/locations/The Ebon Maw\|The Ebon Maw]] sector of the Outlands region of the [[Locations/The Forge\|The Forge]].
+ 
+I am not sure how this story will turn out. The roll of the dice will determine the directions that this story will take. The narratives are AI-generated.
 
 [^jw]: Any resemblance to John Wick or any movie is the result of your overactive imagination. 😉 
 
 ## Episodes
 
-| Number  | Title                                                                                 | Locations        |
-| ------- | ------------------------------------------------------------------------------------- | ---------------- |
-| TSO-000 | [[campaigns/The Shattered Obelisk/narratives/000\|Arrival at Valkyrie Station]]    | Valkyrie Station |
-| TSO-001 | [[campaigns/The Shattered Obelisk/narratives/001\|Kaelen tries to contact Valera]] | Valkyrie Station |
-| TSO-002 | [[campaigns/The Shattered Obelisk/narratives/002\|Kaelen travels to Ember]]        | Valkyrie Station |
+| Number  | Title                                                                                     | Locations        |
+| ------- | ----------------------------------------------------------------------------------------- | ---------------- |
+| TSO-000 | [[campaigns/The Shattered Obelisk/narratives/TSO-000\|Arrival at Valkyrie Station]]    | Valkyrie Station |
+| TSO-001 | [[campaigns/The Shattered Obelisk/narratives/TSO-001\|Kaelen tries to contact Valera]] | Valkyrie Station |
+| TSO-002 | [[campaigns/The Shattered Obelisk/narratives/TSO-002\|Kaelen travels to Ember]]        | Valkyrie Station |
 
 { .block-language-dataview}
 

@@ -30,9 +30,10 @@ I will be playing Shawn Tomkin’s Ironsworn and its variants:
 
 ## Current Storylines
 
-| Campaign                                                      | Character                        | Game       |
-| ------------------------------------------------------------- | -------------------------------- | ---------- |
-| [[campaigns/The Shattered Obelisk\|The Shattered Obelisk]] | [[Characters/Wraith\|Wraith]] | Starforged |
+| Campaign                                                      | Character                        | Game           |
+| ------------------------------------------------------------- | -------------------------------- | -------------- |
+| [[campaigns/The Crimson Tide\|The Crimson Tide]]           | [[Characters/Red\|Red]]       | Sundered Isles |
+| [[campaigns/The Shattered Obelisk\|The Shattered Obelisk]] | [[Characters/Wraith\|Wraith]] | Starforged     |
 
 { .block-language-dataview}
 

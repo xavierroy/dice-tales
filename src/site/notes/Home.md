@@ -22,9 +22,9 @@ I will be playing Shawn Tomkin’s Ironsworn and its variants and writing about
 
 ## Current Storylines
 
-| Campaign                                                      | Character                        | Game       |
-| ------------------------------------------------------------- | -------------------------------- | ---------- |
-| [[campaigns/The Shattered Obelisk\|The Shattered Obelisk]] | [[Characters/Wraith\|Wraith]] | Starforged |
-
-{ .block-language-dataview}
+```dataview 
+TABLE without ID
+link(file.link, title) as "Campaign", character as "Character", game as "Game"
+WHERE contains(type, "campaign") and contains(status, "ongoing")
+```
 
